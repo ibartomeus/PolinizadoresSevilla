@@ -1,0 +1,120 @@
+library(xml2)
+
+flora_europaea <- function(sp, messages = TRUE, ...) {
+  #reformat sp list
+  if (length(sp) > 1) {
+    stop("sp should be a single species", call. = FALSE)
+  }
+  sp <- as.character(sp)
+  genus <- strsplit(sp, " ")[[1]][1]
+  species <- strsplit(sp, " ")[[1]][2]
+  #create urls to parse
+  url <- "http://rbg-web2.rbge.org.uk/cgi-bin/nph-readbtree.pl/feout"
+  args <- list(FAMILY_XREF = "", GENUS_XREF = genus,
+               SPECIES_XREF = species, TAXON_NAME_XREF = "", RANK = "")
+  mssg(messages, paste("Checking", sp))
+  #Parse url and extract table
+  cli <- crul::HttpClient$new(url = url, opts = list(...))
+  url_check <- cli$get(query = args)
+  warn_status(url_check)
+  doc <- xml2::read_html(url_check$parse("UTF-8"), encoding = "UTF-8")
+  tables <- xml2::xml_find_all(doc, "//table")
+
+  if (length(tables) < 3) {
+    mssg(messages, "Species not found")
+    NULL
+  } else {
+    for(i in seq_along(tables)){
+      text <- xml_text(tables[[i]], trim = FALSE)
+      if (grepl("Distribution:", text, perl = TRUE)) {break}
+    }
+    if (!grepl("Distribution:", text, perl = TRUE)) {
+      mssg(messages, "Species with no distribution. Probably not native.")
+    } else{
+      m_nat <- regexpr("Distribution: [A-Za-z ()?*%,]*", text, perl = TRUE)
+      distr_nat <- regmatches(text, m_nat)
+      distr_status <- regmatches(distr_nat,
+                                 gregexpr("[*][A-Z][a-z]", distr_nat, perl = TRUE)) # * Status doubtful; possibly native
+      distr_occ <- regmatches(distr_nat,
+                              gregexpr("[?][A-Z][a-z]", distr_nat, perl = TRUE)) # ? Occurrence doubtful
+      distr_ext <- regmatches(distr_nat,
+                              gregexpr("[%][A-Z][a-z]", distr_nat, perl = TRUE)) # % Extinct
+      #also deal with Rs(N) extract e.g. Rs(N,B,C,W,K,E)
+      distr_nat <- gsub(",", " ", distr_nat)
+      distr_nat <- gsub("(", " ", distr_nat, fixed = TRUE)
+      distr_nat <- gsub(")", "", distr_nat, fixed = TRUE)
+      distr_nat <- gsub("Distribution: ", "", distr_nat)
+
+      nat = exo = stat = oc = ex = NA
+      if (distr_nat != "") {
+        native <- strsplit(distr_nat, " ")[[1]]
+        delete <- which(!native %in% country$short)
+        if (length(delete) > 0) native <- native[-delete]
+        nat <- sapply(native, function(x) {country[which(x == country$short), "long"]})
+      }
+      if (length(distr_status[[1]]) > 0) {
+        status <- gsub("*", "", distr_status[[1]], fixed = TRUE)
+        stat <- sapply(status, function(x) {country[which(x == country$short), "long"]})
+      }
+      if (length(distr_occ[[1]]) > 0) {
+        occ <- gsub("?", "", distr_occ[[1]], fixed = TRUE)
+        oc <- sapply(occ, function(x) {country[which(x == country$short), "long"]})
+      }
+      if (length(distr_ext[[1]]) > 0) {
+        ext <- gsub("%", "", distr_ext[[1]], fixed = TRUE)
+        ex <- sapply(ext, function(x) {country[which(x == country$short), "long"]})
+      }
+      #extract exotics
+      m_ex <- regexpr("[[][A-Za-z ()?*%,]*", text, perl = TRUE)
+      distr_exot <- regmatches(text, m_ex)
+      if (length(distr_exot) > 0) {
+        #NEED TO ADD * ? % for exotics? I don't think those cases exist. Maybe ?
+        exotic <- strsplit(gsub("[", "", distr_exot, fixed = TRUE), " ")[[1]]
+        exo <- sapply(exotic, function(x) {country[which(x == country$short), "long"]})
+      }
+      list(native = as.character(nat), exotic = as.character(exo), status_doubtful = as.character(stat),
+           occurrence_doubtful = as.character(oc), extinct = as.character(ex))
+    }
+  }
+}
+
+#add country short-names translation cheat sheet as dataframe
+country <- data.frame(short = c("Al", "Au", "Az", "Be", "Bl", "Br", "Bu", "Co", "Cr", "Cz",
+                                "Da", "Fa", "Fe", "Ga", "Ge", "Gr", "Hb",
+                                "He", "Ho", "Hs", "Hu", "Is", "It", "Ju",
+                                "Lu", "No", "Po", "Rm", "Rs", "Sa","Sb",
+                                "Si", "Su", "Tu", "N", "B", "C",
+                                "W", "K", "E"),
+                      long = c("Albania", "Austria", "Azores", "Belgium", "Islas_Baleares",
+                               "Britain", "Bulgaria", "Corse", "Kriti",
+                               "Czechoslovakia", "Denmark", "Faroer",
+                               "Finland", "France", "Germany", "Greece",
+                               "Ireland", "Switzerland", "Netherlands", "Spain",
+                               "Hungary", "Iceland", "Italy", "Jugoslavia",
+                               "Portugal", "Norway", "Poland", "Romania",
+                               "USSR", "Sardegna", "Svalbard", "Sicilia",
+                               "Sweden", "Turkey", "USSR_Northern_Division",
+                               "USSR_Baltic_Division", "USSR_Central_Division",
+                               "USSR_South_western", "USSR_Krym",
+                               "USSRSouth_eastern_Division"),
+                      stringsAsFactors = FALSE)
+
+mssg <- function(v, ...) if (v) message(...)
+
+orc <- function(l) Filter(Negate(is.null), l)
+
+todf <- function(x) {
+  (xyz <- data.table::setDF(
+    data.table::rbindlist(x, use.names = TRUE, fill = TRUE)
+  ))
+}
+
+`%||%` <- function (x, y) if (is.null(x) || length(x) == 0) y else x
+
+warn_status <- function(x) {
+  if (!x$status_code < 300) {
+    stat <- x$status_http()
+    warning(sprintf("%s: %s - %s", 
+                    x$status_code %||% "", stat$message %||% "", stat$explanation %||% ""))
+  }
+}
