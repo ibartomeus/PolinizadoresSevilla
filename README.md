@@ -3,9 +3,9 @@
 Proyecto de la red Sevilla por el Clima para la 
 conservación de polinizadores y pájaros frugívoros en Sevilla
 
-Las tablas con la lista de especies y sus caracteristias esta en data/Especies.csv
-Las tablas con la lista de parques y sus caracteristias esta en data/Parques.csv
-Los metadatos en: 
+Las tablas con la lista de especies y sus caracteristias esta en data/Especies.csv     
+Las tablas con la lista de parques y sus caracteristias esta en data/Parques.csv     
+Los metadatos en:    
 
 ## Una ciudad que proteja a los polinizadores. 
 
