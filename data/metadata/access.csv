@@ -1,3 +1,3 @@
 fileName,name,contentUrl,encodingFormat
-Especies.csv,Especies,NA,csv
-Parques.csv,Parques,NA,csv
+Especies.csv,Especies,https://github.com/ibartomeus/PolinizadoresSevilla/blob/main/data/Especies.csv,csv
+Parques.csv,Parques,https://github.com/ibartomeus/PolinizadoresSevilla/blob/main/data/Parques.csv,csv

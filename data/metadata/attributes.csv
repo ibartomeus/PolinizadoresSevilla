@@ -1,1 +1,22 @@
 fileName,variableName,description,unitText
+Especies.csv,id,id,numeric
+Especies.csv,Especie,nombre de la especie de planta,character
+Especies.csv,Porte,porte,character
+Especies.csv,Origen,origen (nativo o exotico),character
+Especies.csv,Importancia_polinizadores,"Importancia para los polinizadores (alta, media, baja o nula).",character
+Especies.csv,Principal_grupo,Grupo de polinizadores más abundante en esa planta.,character
+Especies.csv,Importancia_frugivoros,Importancia para los pájaros frugívoros (alta o nula).,character
+Especies.csv,abundancia,numero de parques en los que esta plantada,character
+Parques.csv,id,id,numeric
+Parques.csv,Parque,nombre del parque,character
+Parques.csv,Tipologia,tipologia del parque,character
+Parques.csv,Barrio,barrio,character
+Parques.csv,Distrito,distrito,character
+Parques.csv,exotica,número de especies exóticas plantadas.,numeric
+Parques.csv,nativa,número de especies nativas plantadas.,numeric
+Parques.csv,pol_alta,número de especies de importancia alta para polinizadores plantadas.,numeric
+Parques.csv,pol_media,número de especies de importancia media para polinizadores plantadas.,numeric
+Parques.csv,pol_baja,número de especies de importancia baja para polinizadores plantadas.,numeric
+Parques.csv,pol_nula,número de especies de importancia nula para polinizadores plantadas.,numeric
+Parques.csv,paj_alta,número de especies de importancia alta para frugívoros plantadas.,numeric
+Parques.csv,paj_nula,número de especies de importancia nula para frugívoros plantadas.,numeric

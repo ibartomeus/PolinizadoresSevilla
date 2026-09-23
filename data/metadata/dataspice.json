@@ -1,0 +1,171 @@
+{
+  "@context": "http://schema.org",
+  "type": "Dataset",
+  "name": "Plantas parques Sevilla",
+  "creator": [
+    {
+      "type": "Person",
+      "id": "0000-0001-7893-4389",
+      "email": "nacho.bartomeus@gmail.com",
+      "affiliation": "EBD-CSIC",
+      "name": "Ignasi Bartomeus"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "email": null,
+      "affiliation": null,
+      "name": "Fernando Ortega"
+    }
+  ],
+  "description": "Base de datos de plantas plantadas en Sevilla, y su origen y importancia para pajaros y polinizadores.",
+  "datePublished": 2026,
+  "keywords": ["Plantas", "polinizadores", "pajaros"],
+  "funder": null,
+  "temporalCoverage": "2026/2026",
+  "license": "CC-BY",
+  "spatialCoverage": {
+    "type": "Place",
+    "name": "Sevilla",
+    "geo": {
+      "type": "GeoShape",
+      "box": "37.3925 -5.891 37.335 -6.07"
+    }
+  },
+  "variableMeasured": [
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "id",
+      "description": "id"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Especie",
+      "description": "nombre de la especie de planta"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Porte",
+      "description": "porte"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Origen",
+      "description": "origen (nativo o exotico)"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Importancia_polinizadores",
+      "description": "Importancia para los polinizadores (alta, media, baja o nula)."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Principal_grupo",
+      "description": "Grupo de polinizadores más abundante en esa planta."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Importancia_frugivoros",
+      "description": "Importancia para los pájaros frugívoros (alta o nula)."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "abundancia",
+      "description": "numero de parques en los que esta plantada"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Parque",
+      "description": "nombre del parque"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Tipologia",
+      "description": "tipologia del parque"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Barrio",
+      "description": "barrio"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Distrito",
+      "description": "distrito"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "exotica",
+      "description": "número de especies exóticas plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "nativa",
+      "description": "número de especies nativas plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "pol_alta",
+      "description": "número de especies de importancia alta para polinizadores plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "pol_media",
+      "description": "número de especies de importancia media para polinizadores plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "pol_baja",
+      "description": "número de especies de importancia baja para polinizadores plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "pol_nula",
+      "description": "número de especies de importancia nula para polinizadores plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "paj_alta",
+      "description": "número de especies de importancia alta para frugívoros plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "paj_nula",
+      "description": "número de especies de importancia nula para frugívoros plantadas."
+    }
+  ],
+  "distribution": [
+    {
+      "type": "DataDownload",
+      "name": "Especies",
+      "contentUrl": "https://github.com/ibartomeus/PolinizadoresSevilla/blob/main/data/Especies.csv",
+      "encodingFormat": "csv"
+    },
+    {
+      "type": "DataDownload",
+      "name": "Parques",
+      "contentUrl": "https://github.com/ibartomeus/PolinizadoresSevilla/blob/main/data/Parques.csv",
+      "encodingFormat": "csv"
+    }
+  ]
+}
