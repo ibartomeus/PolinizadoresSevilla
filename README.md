@@ -5,7 +5,7 @@ conservación de polinizadores y pájaros frugívoros en Sevilla
 
 Las tablas con la lista de especies y sus caracteristias esta en data/Especies.csv     
 Las tablas con la lista de parques y sus caracteristias esta en data/Parques.csv     
-Los metadatos en:    
+Los metadatos en: https://ibartomeus.github.io/PolinizadoresSevilla/        
 
 ## Una ciudad que proteja a los polinizadores. 
 
