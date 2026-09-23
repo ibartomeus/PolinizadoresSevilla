@@ -1,0 +1,430 @@
+<html>
+  <head>
+    <title>Plantas parques Sevilla</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="application/ld+json">
+      {
+  "@context": "http://schema.org",
+  "type": "Dataset",
+  "name": "Plantas parques Sevilla",
+  "creator": [
+    {
+      "type": "Person",
+      "id": "0000-0001-7893-4389",
+      "email": "nacho.bartomeus@gmail.com",
+      "affiliation": "EBD-CSIC",
+      "name": "Ignasi Bartomeus"
+    },
+    {
+      "type": "Person",
+      "id": null,
+      "email": null,
+      "affiliation": null,
+      "name": "Fernando Ortega"
+    }
+  ],
+  "description": "Base de datos de plantas plantadas en Sevilla, y su origen y importancia para pajaros y polinizadores.",
+  "datePublished": 2026,
+  "keywords": ["Plantas", "polinizadores", "pajaros"],
+  "funder": null,
+  "temporalCoverage": "2026/2026",
+  "license": "CC-BY",
+  "spatialCoverage": {
+    "type": "Place",
+    "name": "Sevilla",
+    "geo": {
+      "type": "GeoShape",
+      "box": "37.3925 -5.891 37.335 -6.07"
+    }
+  },
+  "variableMeasured": [
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "id",
+      "description": "id"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Especie",
+      "description": "nombre de la especie de planta"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Porte",
+      "description": "porte"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Origen",
+      "description": "origen (nativo o exotico)"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Importancia_polinizadores",
+      "description": "Importancia para los polinizadores (alta, media, baja o nula)."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Principal_grupo",
+      "description": "Grupo de polinizadores más abundante en esa planta."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Importancia_frugivoros",
+      "description": "Importancia para los pájaros frugívoros (alta o nula)."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "abundancia",
+      "description": "numero de parques en los que esta plantada"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Parque",
+      "description": "nombre del parque"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Tipologia",
+      "description": "tipologia del parque"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Barrio",
+      "description": "barrio"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "character",
+      "name": "Distrito",
+      "description": "distrito"
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "exotica",
+      "description": "número de especies exóticas plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "nativa",
+      "description": "número de especies nativas plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "pol_alta",
+      "description": "número de especies de importancia alta para polinizadores plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "pol_media",
+      "description": "número de especies de importancia media para polinizadores plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "pol_baja",
+      "description": "número de especies de importancia baja para polinizadores plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "pol_nula",
+      "description": "número de especies de importancia nula para polinizadores plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "paj_alta",
+      "description": "número de especies de importancia alta para frugívoros plantadas."
+    },
+    {
+      "type": "PropertyValue",
+      "unitText": "numeric",
+      "name": "paj_nula",
+      "description": "número de especies de importancia nula para frugívoros plantadas."
+    }
+  ],
+  "distribution": [
+    {
+      "type": "DataDownload",
+      "name": "Especies",
+      "contentUrl": "https://github.com/ibartomeus/PolinizadoresSevilla/blob/main/data/Especies.csv",
+      "encodingFormat": "csv"
+    },
+    {
+      "type": "DataDownload",
+      "name": "Parques",
+      "contentUrl": "https://github.com/ibartomeus/PolinizadoresSevilla/blob/main/data/Parques.csv",
+      "encodingFormat": "csv"
+    }
+  ]
+}
+
+    </script>
+    <style>
+      body {
+        font-size: 16px;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        margin: 0 auto;
+        padding: 1rem;
+        max-width: 800px;
+      }
+
+      #map {
+        height: 20rem;
+      }
+
+      #attributes-wrapper,
+      #jsonld-wrapper {
+        height: 20rem;
+        overflow-y: scroll;
+      }
+
+      table {
+        border-collapse: collapse;
+      }
+
+      th {
+        border-bottom: 1px solid black;
+      }
+
+      th, td {
+        padding: 0.25rem;
+      }
+
+      table.listing td {
+        border: 1px solid #CCC;
+      }
+
+      table.listing tr td:first-child {
+          background-color: #EEE;
+      }
+
+      table.listing ul {
+        margin: 0 0 0 1.5rem;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Plantas parques Sevilla</h1>
+    <p><strong>Description:</strong> Base de datos de plantas plantadas en Sevilla, y su origen y importancia para pajaros y polinizadores.</p>
+
+    <h2>Bibliographic</h2>
+
+    <table class="listing">
+      <tr>
+        <td>Published</td>
+        <td>2026</td>
+      </tr>
+      <tr>
+        <td>Keywords</td>
+        <td>
+          <ul>
+            <li>Plantas</li>
+            <li>polinizadores</li>
+            <li>pajaros</li>
+        </ul>
+        </td>
+      </tr>
+      <tr>
+        <td>Funder</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>License</td>
+        <td>CC-BY</td>
+      </tr>
+    </table>
+
+    <h2>Coverage</h2>
+
+    <h3>Temporal</h3>
+
+    <table class="listing">
+      <tr>
+        <td>Begin</td>
+        <td>2026</td>
+      </tr>
+      <tr>
+        <td>End</td>
+        <td>2026</td>
+      </tr>
+    </table>
+
+    <h3>Spatial</h3>
+    <pre><code></code></pre>
+    <div id="map"></div>
+
+    <h2>Attributes</h2>
+
+    <div id="attributes-wrapper">
+      <table id="attributes">
+        <thead>
+          <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Unit</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td><code>id</code></td>
+            <td>id</td>
+            <td>numeric</td>
+          </tr>
+          <tr>
+            <td><code>Especie</code></td>
+            <td>nombre de la especie de planta</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>Porte</code></td>
+            <td>porte</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>Origen</code></td>
+            <td>origen (nativo o exotico)</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>Importancia_polinizadores</code></td>
+            <td>Importancia para los polinizadores (alta, media, baja o nula).</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>Principal_grupo</code></td>
+            <td>Grupo de polinizadores más abundante en esa planta.</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>Importancia_frugivoros</code></td>
+            <td>Importancia para los pájaros frugívoros (alta o nula).</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>abundancia</code></td>
+            <td>numero de parques en los que esta plantada</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>Parque</code></td>
+            <td>nombre del parque</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>Tipologia</code></td>
+            <td>tipologia del parque</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>Barrio</code></td>
+            <td>barrio</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>Distrito</code></td>
+            <td>distrito</td>
+            <td>character</td>
+          </tr>
+          <tr>
+            <td><code>exotica</code></td>
+            <td>número de especies exóticas plantadas.</td>
+            <td>numeric</td>
+          </tr>
+          <tr>
+            <td><code>nativa</code></td>
+            <td>número de especies nativas plantadas.</td>
+            <td>numeric</td>
+          </tr>
+          <tr>
+            <td><code>pol_alta</code></td>
+            <td>número de especies de importancia alta para polinizadores plantadas.</td>
+            <td>numeric</td>
+          </tr>
+          <tr>
+            <td><code>pol_media</code></td>
+            <td>número de especies de importancia media para polinizadores plantadas.</td>
+            <td>numeric</td>
+          </tr>
+          <tr>
+            <td><code>pol_baja</code></td>
+            <td>número de especies de importancia baja para polinizadores plantadas.</td>
+            <td>numeric</td>
+          </tr>
+          <tr>
+            <td><code>pol_nula</code></td>
+            <td>número de especies de importancia nula para polinizadores plantadas.</td>
+            <td>numeric</td>
+          </tr>
+          <tr>
+            <td><code>paj_alta</code></td>
+            <td>número de especies de importancia alta para frugívoros plantadas.</td>
+            <td>numeric</td>
+          </tr>
+          <tr>
+            <td><code>paj_nula</code></td>
+            <td>número de especies de importancia nula para frugívoros plantadas.</td>
+            <td>numeric</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h2>Distribution</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>File</th>
+          <th>Format</th>
+          <th>&nbsp;</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td><code>Especies</code></td>
+          <td><code>csv</code></td>
+          <td><a href="https://github.com/ibartomeus/PolinizadoresSevilla/blob/main/data/Especies.csv">Download</a></td>
+        </tr>
+        <tr>
+          <td><code>Parques</code></td>
+          <td><code>csv</code></td>
+          <td><a href="https://github.com/ibartomeus/PolinizadoresSevilla/blob/main/data/Parques.csv">Download</a></td>
+        </tr>
+      </tbody>
+    </table>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin=""/>
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script>
+    <script>
+      var mymap = L.map('map').setView([37.36375, -5.9805], 1);
+
+      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: 'Map data &copy; <a href="https://www.openstreetmap.org/">OpenStreetMap</a> contributors, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>',
+        maxZoom: 18,
+      }).addTo(mymap);
+
+      var polygon = L.polygon([[ 37.3925, -5.891], [ 37.335, -5.891], [ 37.335, -6.07], [ 37.3925, -6.07]]).addTo(mymap);
+    </script>
+  </body>
+</html>
