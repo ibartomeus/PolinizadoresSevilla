@@ -1,525 +1,525 @@
-"","Parque","Tipologia","Barrio","Distrito","exotica","nativa","pol_alta","pol_media","pol_baja","pol_nula","paj_alta","paj_nula"
-"1","Acogida (La), Plaza","Medianas y Glorietas","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",5,3,0,2,6,0,0,8
-"2","Adolfo Rodríguez Jurado, Isleta","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",3,0,0,3,0,0,0,3
-"3","ADORACION DE LOS PASTORES","Plaza o Jardín","LAS HUERTAS","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"4","ADORACION DE LOS PASTORES","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"5","AGUADOR DE SEVILLA (EL)","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",2,0,0,2,0,0,0,2
-"6","AGUSTIN ARGUELLES","Arbolado Viario","NERVION","Nervión",2,0,0,2,0,0,0,2
-"7","AHORRO","Arbolado Viario","SANTA CLARA","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"8","ALBERCHE, CL","Arbolado Viario","EL JUNCAL-HISPALIS","Sur",6,0,0,2,4,0,0,6
-"9","ALBOREA","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"10","Alcalde Luis Uruñuela","","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",0,1,0,0,1,0,0,1
-"11","Alcalde Luis Uruñuela","Medianas y Glorietas","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",20,7,10,6,11,0,7,20
-"12","Alcalde Luis Uruñuela","Medianas y Glorietas","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",15,29,7,20,16,1,8,36
-"13","Alcalde Luis Uruñuela","Medianas y Glorietas","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",4,1,0,4,1,0,0,5
-"14","ALFREDO ROMERO VERDUGO,ROTONDA","Medianas y Glorietas","BELLAVISTA","Bellavista-La Palmera",6,0,0,6,0,0,6,0
-"15","ALICATES","Arbolado Viario","AEROPUERTO VIEJO","Norte",0,3,0,0,3,0,0,3
-"16","Alquitira, Plaza","Plaza o Jardín","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",1,0,0,0,1,0,0,1
-"17","Altamira, Avenida","Jardinería Asociada a Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",2,14,0,3,12,1,1,15
-"18","AMBROSIO DE LA CUESTA","","BELLAVISTA","Bellavista-La Palmera",0,1,0,0,1,0,1,0
-"19","AMORES AMORIOS","Arbolado Viario","FELIPE II-LOS DIEZ MANDAMIENTOS","Sur",1,0,0,0,1,0,0,1
-"20","ANDALUCIA","Arbolado Viario","SANTA CLARA","San Pablo-Santa Justa",22,36,0,9,49,0,0,58
-"21","ANTIOQUIA","Arbolado Viario","SAN PABLO D Y E","San Pablo-Santa Justa",2,0,0,1,1,0,0,2
-"22","Antonio Buero Vallejo","Arbolado Viario","DOCTOR BARRAQUER-GRUPO RENFE- POLICLINICO","Macarena",0,2,0,0,2,0,2,0
-"23","ANTONIO DE LARA","Arbolado Viario","SAN PABLO D Y E","San Pablo-Santa Justa",1,0,0,1,0,0,0,1
-"24","ARCO IRIS, JARD═N PLAZA","Plaza o Jardín","SAN JERONIMO","Norte",1,0,0,0,0,1,0,1
-"25","ARCO IRIS, JARDÍN PLAZA","Plaza o Jardín","SAN JERONIMO","Norte",4,25,0,2,27,0,0,29
-"26","Artesa, Calle","Arbolado Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",7,8,0,0,13,2,0,15
-"27","AUTOMOCION","Arbolado Viario","AEROPUERTO VIEJO","Norte",1,0,0,0,1,0,0,1
-"28","AV BLAS INFANTE","Arbolado Viario","EL TARDON-EL CARMEN","Triana",12,0,0,0,12,0,0,12
-"29","AV BLAS INFANTE","Arbolado Viario","TABLADA","Los Remedios",6,0,0,0,6,0,0,6
-"30","AV CARLOS III","Medianas y Glorietas","TRIANA OESTE","Triana",9,2,0,6,5,0,0,11
-"31","AV CONCEJAL ALBERTO JIMENEZ- BECERRIL","Medianas y Glorietas","DOCTOR BARRAQUER-GRUPO RENFE- POLICLINICO","Macarena",7,0,0,0,7,0,0,7
-"32","AV JUAN PABLO II","Arbolado Viario","TABLADA","Los Remedios",4,0,0,0,4,0,0,4
-"33","AVENIDA DE EL GRECO","Jardinería Asociada a Viario","SAN PABLO A Y B","San Pablo-Santa Justa",10,2,0,6,6,0,0,12
-"34","Avenida Expo 92","Medianas y Glorietas","TRIANA OESTE","Triana",25,0,0,1,22,2,0,25
-"35","AVIACION","Arbolado Viario","AEROPUERTO VIEJO","Norte",9,5,0,3,11,0,0,14
-"36","AVION CUATRO VIENTOS","","EL PLANTINAR","Sur",4,0,0,0,4,0,0,4
-"37","AZAHÍN, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",253,3,0,14,241,1,0,256
-"38","Bajos de Contadero","Plaza o Jardín","ARENAL","Casco Antiguo",142,50,0,4,155,33,0,192
-"39","Bajos de Contadero","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",16,0,0,1,15,0,0,16
-"40","BALTASAR DE ALCAZAR","Arbolado Viario","LA CORZA","San Pablo-Santa Justa",2,0,0,0,2,0,0,2
-"41","BARRIADA VILLEGAS JARDINES PLAZA","Plaza o Jardín","VILLEGAS","Macarena",6,13,0,0,19,0,0,19
-"42","BELLAVISTA","Arbolado Viario","BELLAVISTA","Bellavista-La Palmera",2,5,0,0,7,0,5,2
-"43","BENITO MAS Y PRAT","Arbolado Viario","LA BUHAIRA","Nervión",12,0,0,0,12,0,0,12
-"44","BIB RAMBLA, PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",51,0,0,0,50,1,0,51
-"45","BIOLOGIA","Arbolado Viario","LA BACHILLERA","Norte",0,3,3,0,0,0,0,3
-"46","BOMBITA","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"47","BUEN PASTOR NIÑO","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"48","Bulevar de los Arcos","Medianas y Glorietas","NERVION","Nervión",5,0,0,5,0,0,5,0
-"49","Bulevar de los Arcos","Medianas y Glorietas","SANTA CLARA","San Pablo-Santa Justa",5,0,0,5,0,0,5,0
-"50","C.E.Perm. San Pablo - Las Aguas","Edificios Municipales","SAN PABLO A Y B","San Pablo-Santa Justa",2,0,0,0,2,0,0,2
-"51","C.F.Perm. Polígono Sur ( CODE)","Edificios Municipales","POLIGONO SUR","Sur",2,0,0,0,2,0,0,2
-"52","CALLE AMERICA MARTINEZ","Arbolado Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",3,3,0,2,4,0,0,6
-"53","CALLE CASTILLA","Arbolado Viario","TRIANA CASCO ANTIGUO","Triana",2,2,0,2,2,0,2,2
-"54","CALLE RUBI, JARDINES PLAZA","","LAS AVENIDAS","Macarena",27,0,0,0,27,0,0,27
-"55","CANAL DE LOS PRESOS","Plaza o Jardín","TORREBLANCA","Este-Alcosa-Torreblanca",7,1,0,1,7,0,0,8
-"56","CANAL RANILLA","Jardinería Asociada a Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",1,0,0,0,1,0,0,1
-"57","CAPUCHINOS, JARDÍN.","Plaza o Jardín","CRUZ ROJA-CAPUCHINOS","Macarena",59,19,10,31,36,1,10,68
-"58","CARABELA SANTA MARIA","Plaza o Jardín","SANTA CLARA","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"59","Carlinga, Calle","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",7,9,0,0,16,0,0,16
-"60","CARLOS V,AV","Arbolado Viario","EL PRADO-PARQUE MARIA LUISA","Sur",1,0,0,1,0,0,0,1
-"61","CARLOS V,AV","Arbolado Viario","SAN BERNARDO","Nervión",2,0,0,0,2,0,0,2
-"62","CARRETERA DE CARMONA","Arbolado Viario","LA CORZA","San Pablo-Santa Justa",2,0,0,0,2,0,0,2
-"63","Cementerio San Fernando","Edificios Municipales","LA BACHILLERA","Norte",6,2,0,2,6,0,0,8
-"64","Centro Educativo San Fernando","Edificios Municipales","AMATE","Cerro-Amate",2,0,0,0,2,0,0,2
-"65","Ciencias (Las), Avenida","Medianas y Glorietas","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",64,31,4,28,58,5,5,90
-"66","Ciudad de Alberique, Calle","Arbolado Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",4,0,0,0,4,0,0,4
-"67","CIUDAD DE ALDAYA, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",24,2,0,16,10,0,0,26
-"68","Ciudad de Chiva, Avenida","Arbolado Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",15,1,0,1,15,0,0,16
-"69","CIUDAD DE LA IMAGEN, PARQUE.","","LA BACHILLERA","Norte",0,2,0,0,2,0,0,2
-"70","CIUDAD DE LA IMAGEN, PARQUE.","Parque Urbano","LA BACHILLERA","Norte",2,22,1,0,23,0,0,24
-"71","Ciudad de Manises, Calle","Arbolado Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",4,0,0,0,4,0,0,4
-"72","CIUDAD DE MONTILLA","Sin Recepcionar","SAN CARLOS-TARTESSOS","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"73","Ciudad de Paterna, Calle","Arbolado Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",4,0,0,2,2,0,0,4
-"74","CL AMERICO VESPUCIO","Arbolado Viario","TRIANA OESTE","Triana",15,1,1,6,9,0,0,16
-"75","CL BEGONIA","","PIO XII","Macarena",0,2,0,0,2,0,0,2
-"76","CL BEGONIA","Plaza o Jardín","PIO XII","Macarena",2,0,0,1,1,0,0,2
-"77","CL GONZALO JIMENEZ DE QUESADA","Medianas y Glorietas","TRIANA OESTE","Triana",11,0,0,11,0,0,0,11
-"78","CL GUSTAVO BACARISAS","Arbolado Viario","TRIANA CASCO ANTIGUO","Triana",2,0,0,0,2,0,0,2
-"79","CL IGNACIO GOMEZ MILLAN","Plaza o Jardín","TRIANA OESTE","Triana",6,0,0,0,6,0,0,6
-"80","CL INCA GARCILASO","Medianas y Glorietas","TRIANA OESTE","Triana",2,22,13,0,9,2,1,23
-"81","CL MUÑOZ LEON","Arbolado Viario","SAN GIL","Casco Antiguo",0,2,0,1,1,0,1,1
-"82","CL OCIO","Arbolado Viario","TRIANA OESTE","Triana",0,5,0,5,0,0,0,5
-"83","CL PERIODISTA NICOLAS SALAS","","TRIANA CASCO ANTIGUO","Triana",1,0,0,0,1,0,0,1
-"84","CL PLAZA NUEVA","Plaza o Jardín","ALFALFA","Casco Antiguo",12,0,0,12,0,0,0,12
-"85","CL PLAZA NUEVA","Plaza o Jardín","ARENAL","Casco Antiguo",73,66,0,63,10,66,0,139
-"86","CL RONDA DE CIRCUNVALACIóN SE-30","Sin Recepcionar","TRIANA OESTE","Triana",11,0,0,4,7,0,0,11
-"87","Cojinete, Calle","Arbolado Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",6,1,0,0,1,6,0,7
-"88","CONCEJAL ALONSO BALOSA GARCIA, ROTONDA","Medianas y Glorietas","BELLAVISTA","Bellavista-La Palmera",15,0,0,0,0,15,0,15
-"89","Conde de Halcon","Arbolado Viario","PIO XII","Macarena",1,0,0,0,1,0,0,1
-"90","CORTIJO DE LAS CASILLAS","Arbolado Viario","CONSOLACION","Norte",0,2,0,0,2,0,0,2
-"91","CRISANTEMO,CL","Arbolado Viario","PIO XII","Macarena",3,0,0,1,2,0,0,3
-"92","CRISTO DE BURGOS, JARDINES PLAZA","Plaza o Jardín","ALFALFA","Casco Antiguo",33,0,0,0,17,16,0,33
-"93","CRISTO DE BURGOS, PLAZA","Plaza o Jardín","ALFALFA","Casco Antiguo",8,0,0,0,8,0,0,8
-"94","CRISTO DE VELAZQUEZ","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"95","CROSS SAN JERONIMO, PARQUE","Parque Urbano","LA BACHILLERA","Norte",2,4,2,3,0,1,1,5
-"96","CRUCERO BALEARES, JARDÍN PLAZA","Plaza o Jardín","TRIANA OESTE","Triana",3,0,0,0,3,0,0,3
-"97","Cueva de la Pileta, Calle","Arbolado Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",1,1,0,0,2,0,0,2
-"98","Cueva de Menga, calle","Sin Recepcionar","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",9,0,0,9,0,0,0,9
-"99","Cueva del Agua, calle","Sin Recepcionar","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",20,0,0,20,0,0,0,20
-"100","Cueva del Gato, Calle","Arbolado Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",1,0,0,1,0,0,0,1
-"101","DE GOMILA, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",88,3,2,6,73,10,3,88
-"102","DE LA CONCORDIA, JARDINES PLAZA","Plaza o Jardín","ENCARNACION-REGINA","Casco Antiguo",17,4,0,0,21,0,0,21
-"103","DE LA DÁRSENA, JARDINES","Plaza o Jardín","TRIANA OESTE","Triana",13,0,0,1,12,0,0,13
-"104","DE LA ENCARNACIóN, JARDINES PLAZA","","ALFALFA","Casco Antiguo",15,0,0,0,15,0,0,15
-"105","DE LA ENCARNACIóN, JARDINES PLAZA","Plaza o Jardín","ALFALFA","Casco Antiguo",14,8,3,7,11,1,8,14
-"106","DE LA ENCARNACIóN, JARDINES PLAZA","Plaza o Jardín","ENCARNACION-REGINA","Casco Antiguo",3,0,0,2,1,0,0,3
-"107","DE LAS MONJAS, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",80,6,3,21,58,4,3,83
-"108","DE LAS TENDILLAS, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",75,1,0,4,71,1,0,76
-"109","DE ORIENTE, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",98,1,0,1,98,0,0,99
-"110","DE ZOCODOVER, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",94,3,3,4,89,1,0,97
-"111","DEL COLLAO, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",62,12,1,19,51,3,2,72
-"112","DEL DUQUE, JARDINES PLAZA","Plaza o Jardín","ENCARNACION-REGINA","Casco Antiguo",8,0,0,4,4,0,0,8
-"113","DEL MUSEO, JARDINES PLAZA","Plaza o Jardín","MUSEO","Casco Antiguo",16,0,0,16,0,0,0,16
-"114","DEL OBRADOIRO, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",67,15,1,1,79,1,1,81
-"115","DEL REY AURELIO, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",142,1,0,1,142,0,0,143
-"116","DEL TURRUÑUELO, PARQUE","Parque Urbano","TRIANA OESTE","Triana",32,0,0,9,23,0,0,32
-"117","DEL VALLE, JARDINES","Parque Urbano","SANTA CATALINA","Casco Antiguo",81,39,2,36,82,0,3,117
-"118","DEL ZURRAQUE, JARDINES PLAZA","Plaza o Jardín","TRIANA OESTE","Triana",15,0,0,0,9,6,0,15
-"119","Delicias, Paseo","","SANTA CRUZ","Casco Antiguo",4,1,0,0,4,1,0,5
-"120","Delicias, Paseo","Arbolado Viario","SANTA CRUZ","Casco Antiguo",37,55,0,0,34,58,0,92
-"121","Demófilo, Calle","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",1,0,0,0,1,0,0,1
-"122","Deporte, El (Avenida)","Medianas y Glorietas","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",26,18,1,25,13,5,7,37
-"123","Deporte, El (Avenida)","Medianas y Glorietas","TORREBLANCA","Este-Alcosa-Torreblanca",15,9,6,17,1,0,7,17
-"124","DESTORNILLADOR","","AEROPUERTO VIEJO","Norte",1,0,0,1,0,0,0,1
-"125","DIEGO DE RIAÑO","Arbolado Viario","EL PRADO-PARQUE MARIA LUISA","Sur",1,0,0,0,1,0,0,1
-"126","DIEGO GALVEZ","","AMATE","Cerro-Amate",1,0,0,0,1,0,0,1
-"127","DIPUTADO RAMóN RUEDA, JARDINES PLAZA.","","BARRIADA PINO MONTANO","Norte",14,1,0,1,14,0,0,15
-"128","DIPUTADO RAMóN RUEDA, JARDINES PLAZA.","Plaza o Jardín","BARRIADA PINO MONTANO","Norte",20,4,0,2,22,0,0,24
-"129","DOCTOR ANTONIO CORTÉS LLADó","Arbolado Viario","HUERTA DE LA SALUD","Sur",30,1,0,9,19,3,0,31
-"130","DOCTOR GABRIEL SANCHEZ DE LA CUESTA","Arbolado Viario","HUERTA DE LA SALUD","Sur",7,2,0,0,8,1,0,9
-"131","DOCTOR JOSÉ Ma BEDOYA","","HUERTA DE LA SALUD","Sur",2,0,0,0,0,2,0,2
-"132","DOCTOR JOSÉ Ma BEDOYA","Plaza o Jardín","HUERTA DE LA SALUD","Sur",60,6,0,26,38,2,3,63
-"133","Doctor Miguel Ríos Sarmiento, Calle","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",6,4,0,7,3,0,1,9
-"134","DON JUAN","Arbolado Viario","SANTA CLARA","San Pablo-Santa Justa",16,10,0,2,22,2,0,26
-"135","DOÑA FRANCISQUITA (BIOSALUDABLES)","","JUAN XXIII","Cerro-Amate",10,0,0,10,0,0,0,10
-"136","DONANTES DE ORGANOS","Arbolado Viario","SAN PABLO D Y E","San Pablo-Santa Justa",0,2,0,0,2,0,0,2
-"137","EDUARDO DATO","","SAN BERNARDO","Nervión",4,0,0,0,4,0,0,4
-"138","EDUARDO DATO","Arbolado Viario","LA FLORIDA","Nervión",6,0,0,0,2,4,0,6
-"139","EDUARDO DATO","Arbolado Viario","SAN BERNARDO","Nervión",10,0,0,0,6,4,0,10
-"140","EDUARDO GARCIA MAROTO","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",0,3,0,0,3,0,0,3
-"141","EFESO","Arbolado Viario","LAS HUERTAS","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"142","EFESO","Arbolado Viario","SAN PABLO A Y B","San Pablo-Santa Justa",2,4,1,0,5,0,0,6
-"143","EL CHICLANERO","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"144","El Populo","Sin Recepcionar","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",3,3,0,0,6,0,0,6
-"145","Elda, calle","Arbolado Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",0,1,0,0,1,0,0,1
-"146","ELISA RUIZ ROMERO","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",0,8,0,0,8,0,0,8
-"147","Emilio Lemos, Avda.","Medianas y Glorietas","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",26,32,0,15,42,1,1,57
-"148","EMILIO LEMOS, PARQUE","Parque Urbano","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",25,0,0,9,16,0,0,25
-"149","ENCINA DEL REY, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",69,10,7,4,66,2,1,78
-"150","Esperanza Velez Lamadrid Gta.","Medianas y Glorietas","POLIGONO SUR","Sur",3,0,0,2,1,0,0,3
-"151","ESPINOSA Y CARCEL","Arbolado Viario","NERVION","Nervión",0,1,0,0,1,0,0,1
-"152","Eufrates, Calle","Arbolado Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",12,18,0,7,22,1,1,29
-"153","FABRILO","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"154","FACTORES 1 ( PARQUE APRENDICES DE RENFE), JARDINES CALLE","Parque Urbano","SAN JERONIMO","Norte",12,0,0,0,12,0,0,12
-"155","FERNANDO VI","Plaza o Jardín","BELLAVISTA","Bellavista-La Palmera",2,1,0,3,0,0,1,2
-"156","FERNANDO VILLALON","Arbolado Viario","HUERTA DE LA SALUD","Sur",1,0,0,0,0,1,0,1
-"157","FERNANDO ZOBEL","","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",2,5,0,2,5,0,0,7
-"158","FERNANDO ZOBEL","Jardinería Asociada a Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",18,9,0,11,16,0,0,27
-"159","FIDELIO","Arbolado Viario","SANTA CLARA","San Pablo-Santa Justa",13,2,0,9,6,0,1,14
-"160","FINCA VALLADA_LOTE1","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",6,0,0,0,6,0,0,6
-"161","Flor de Azalea, Calle","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",4,3,0,1,6,0,0,7
-"162","Flor de Gitanilla","Jardinería Asociada a Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",1,0,0,1,0,0,0,1
-"163","Flor de Salvia, Calle","Jardinería Asociada a Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",9,1,0,5,5,0,0,10
-"164","FLOTA DE INDIAS","Arbolado Viario","LOS REMEDIOS","Los Remedios",1,0,0,0,1,0,0,1
-"165","FLOTA DE INDIAS","Arbolado Viario","TABLADA","Los Remedios",1,0,0,0,1,0,0,1
-"166","FRAGUA DE VULCANO","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",0,2,0,0,2,0,0,2
-"167","FRANCISCO ELIAS RIQUELME","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",5,0,0,0,5,0,0,5
-"168","FRAY MARCOS DE NIZA","Arbolado Viario","SANTA CLARA","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"169","GALLEGA A LA VENTANA","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",3,0,0,2,1,0,0,3
-"170","Garlopa, Calle","Arbolado Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",0,6,0,0,6,0,0,6
-"171","Gema, Calle","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",16,1,0,5,12,0,0,17
-"172","GIBRALTAR","","AMATE","Cerro-Amate",4,0,0,0,4,0,0,4
-"173","Glorieta de Goya","","EL PRADO-PARQUE MARIA LUISA","Sur",1,0,0,0,1,0,0,1
-"174","Glorieta de Goya","Arbolado Viario","EL PRADO-PARQUE MARIA LUISA","Sur",4,1,0,3,2,0,1,4
-"175","GLORIETA DOCTOR JUAN BERMUDO DE LA ROSA","Medianas y Glorietas","POLIGONO SUR","Sur",7,0,0,0,7,0,0,7
-"176","Glorieta e Isletas de Molini","","SECTOR SUR-LA PALMERA-REINA MERCEDES","Bellavista-La Palmera",1,0,0,0,1,0,0,1
-"177","GLORIETA FERNADO ZOBEL-LUIS FUENTES BEJARANO","","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",4,0,0,2,2,0,0,4
-"178","GLORIETA INGENIEROS INDUSTRIALES","Medianas y Glorietas","GIRALDA SUR","Sur",19,0,0,1,18,0,0,19
-"179","GLORIETA LAS CIGARRERAS","","LOS REMEDIOS","Los Remedios",6,0,0,0,6,0,0,6
-"180","GLORIETA LAS CIGARRERAS","Medianas y Glorietas","LOS REMEDIOS","Los Remedios",2,4,0,5,1,0,0,6
-"181","GLORIETA LETONIA","Medianas y Glorietas","BELLAVISTA","Bellavista-La Palmera",0,5,1,4,0,0,5,0
-"182","GLORIETA REPUBLICA DOMINICANA","Medianas y Glorietas","EL TARDON-EL CARMEN","Triana",4,0,0,4,0,0,4,0
-"183","GLORIETA REPUBLICA DOMINICANA","Medianas y Glorietas","LOS REMEDIOS","Los Remedios",5,0,0,0,5,0,0,5
-"184","GLORIETA REPUBLICA DOMINICANA","Medianas y Glorietas","TRIANA ESTE","Triana",1,0,0,1,0,0,1,0
-"185","Glorieta Vía Flavia cv Columbretes","","TORREBLANCA","Este-Alcosa-Torreblanca",7,3,0,6,4,0,9,1
-"186","GRAN PLAZA GLORIETA 1","Medianas y Glorietas","NERVION","Nervión",10,0,0,0,10,0,0,10
-"187","GRAN PLAZA GLORIETA 2","Medianas y Glorietas","CIUDAD JARDIN","Nervión",4,0,0,0,4,0,0,4
-"188","GRAN PLAZA GLORIETA 2","Medianas y Glorietas","NERVION","Nervión",5,0,0,0,5,0,0,5
-"189","GRAN VÍA ( ANTIGUO COCA COLA),PARQUE","Parque Urbano","SANTA CLARA","San Pablo-Santa Justa",0,7,7,0,0,0,6,1
-"190","GRUPO SANTA JUSTA Y RUFINA","Sin Recepcionar","PARQUE MIRAFLORES","Macarena",2,0,0,0,2,0,0,2
-"191","GRUPO SANTA JUSTA Y RUFINA","Sin Recepcionar","VILLEGAS","Macarena",3,0,0,0,3,0,0,3
-"192","GUADALIMAR","Arbolado Viario","PEDRO SALVADOR-LAS PALMERITAS- GUADAIRA","Bellavista-La Palmera",4,1,0,0,5,0,0,5
-"193","Hermenegildo Casas Jiménez, Calle","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",5,1,0,2,4,0,0,6
-"194","HESPERIDES, JARDINES","Plaza o Jardín","LAS HUERTAS","San Pablo-Santa Justa",6,0,0,0,6,0,0,6
-"195","HILANDERAS (LAS)","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"196","Indonesia, Calle","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",0,1,0,0,1,0,0,1
-"197","INMACULADO CORAZON DE MARIA","Plaza o Jardín","HELIOPOLIS","Bellavista-La Palmera",7,0,0,0,7,0,0,7
-"198","ISLETA CALLE BOGOTA","Plaza o Jardín","EL PORVENIR","Sur",1,0,0,0,0,1,0,1
-"199","ISLETA CALLE BOGOTA","Plaza o Jardín","TABLADILLA-LA ESTRELLA","Sur",1,0,0,0,1,0,0,1
-"200","ISLETA CALLE BOGOTA","Plaza o Jardín","TIRO DE LINEA-SANTA GENOVEVA","Sur",1,0,0,0,1,0,0,1
-"201","JARDIN AMERICANO","Parque Periurbano","TRIANA OESTE","Triana",239,1,1,52,175,12,0,240
-"202","JARDIN C/ TERMANCIA","Plaza o Jardín","TRIANA OESTE","Triana",3,2,0,4,1,0,2,3
-"203","Jardín de las Delicias","Parque o Jardín Histórico","EL PRADO-PARQUE MARIA LUISA","Sur",235,22,6,56,171,24,13,244
-"204","JARDINES DE CHAPINA","Plaza o Jardín","MUSEO","Casco Antiguo",7,0,0,0,6,1,0,7
-"205","JARDINES DE CISTER","Arbolado Viario","BELLAVISTA","Bellavista-La Palmera",1,0,0,0,1,0,0,1
-"206","Jardines de Cristina","","SANTA CRUZ","Casco Antiguo",2,2,0,0,2,2,0,4
-"207","Jardines de Cristina","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",47,7,0,9,22,23,0,54
-"208","JARDINES DE LA ALHAMBRA","Arbolado Viario","BELLAVISTA","Bellavista-La Palmera",1,0,0,0,1,0,0,1
-"209","Jardines de La Caridad","","ARENAL","Casco Antiguo",9,0,0,0,7,2,0,9
-"210","Jardines de La Caridad","Parque o Jardín Histórico","ARENAL","Casco Antiguo",67,4,0,32,27,12,4,67
-"211","Jardines de la Lonja","Parque o Jardín Histórico","SANTA CRUZ","Casco Antiguo",34,1,0,17,18,0,1,34
-"212","Jardines de la Madrina","Parque o Jardín Histórico","SANTA CRUZ","Casco Antiguo",50,4,0,8,31,15,1,53
-"213","Jardines de Murillo","","SANTA CRUZ","Casco Antiguo",9,0,0,4,4,1,0,9
-"214","Jardines de Murillo","Parque o Jardín Histórico","SANTA CRUZ","Casco Antiguo",444,150,6,308,210,70,48,546
-"215","JARDINES DEL GUADALQUIVIR","Parque Periurbano","TRIANA OESTE","Triana",173,33,12,79,102,13,57,149
-"216","Jardines Glorieta Goya","Parque o Jardín Histórico","EL PRADO-PARQUE MARIA LUISA","Sur",31,10,2,10,26,3,9,32
-"217","JARDINES PLAZA ENTREPARQUES","Plaza o Jardín","BARRIADA PINO MONTANO","Norte",55,0,0,0,55,0,0,55
-"218","Jardines Plaza San Nicola¡s","","SAN MARIA DE ORDAS-SAN NICOLAS","Macarena",36,0,0,16,20,0,1,35
-"219","JEREZ","Arbolado Viario","BELLAVISTA","Bellavista-La Palmera",13,0,0,3,0,10,0,13
-"220","JEREZ","Arbolado Viario","EL CANO-BERMEJALES","Bellavista-La Palmera",0,6,0,6,0,0,6,0
-"221","Joaquín Romero Murube - Alianza","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",21,0,0,21,0,0,0,21
-"222","JOSE HERNANDEZ GAN","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"223","José Jesús García Díaz, Calle","Arbolado Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",1,16,1,0,16,0,0,17
-"224","JOSÉ LUIS VILA, JARDINES PLAZA","Plaza o Jardín","FERIA","Casco Antiguo",53,10,3,8,51,1,0,63
-"225","JOSE MARIA DE LOS SANTOS,PARQUE","Parque Urbano","CONSOLACION","Norte",17,6,0,15,3,5,1,22
-"226","JOSE VAL DEL OMAR","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",2,0,0,0,2,0,0,2
-"227","JOSEFA REINA PUERTO, JARDINES PLAZA","Plaza o Jardín","ALFALFA","Casco Antiguo",20,0,0,20,0,0,0,20
-"228","JUAN CARVALLO","Arbolado Viario","ROCHELAMBERT","Cerro-Amate",1,1,1,1,0,0,0,2
-"229","JUAN DE LA COSA","Arbolado Viario","TIRO DE LINEA-SANTA GENOVEVA","Sur",0,1,0,0,1,0,0,1
-"230","JUAN DE ZALDIVAR","Plaza o Jardín","SANTA CLARA","San Pablo-Santa Justa",0,7,0,0,7,0,0,7
-"231","JUAN GARCÍA REYES, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",4,6,0,0,10,0,0,10
-"232","JUAN SEBASTIAN ELCANO","Arbolado Viario","LOS REMEDIOS","Los Remedios",6,0,0,0,6,0,0,6
-"233","KANSAS CITY","Arbolado Viario","LAS HUERTAS","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"234","KANSAS CITY","Arbolado Viario","SAN PABLO A Y B","San Pablo-Santa Justa",6,11,0,4,13,0,0,17
-"235","LEONARDO DE FIGUEROA","Arbolado Viario","NERVION","Nervión",1,0,0,1,0,0,0,1
-"236","LICENCIADO CALDERA","Arbolado Viario","LA CORZA","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"237","LITRI","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"238","LOS LUCEROS, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",60,2,2,4,56,0,0,62
-"239","LOS MERINALES, ROTONDA","","BELLAVISTA","Bellavista-La Palmera",11,0,0,0,11,0,0,11
-"240","Luis Fuentes Bejarano, Calle","Arbolado Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",2,7,0,3,6,0,0,9
-"241","MAESTRO PEDRO BRAÑA","Arbolado Viario","NERVION","Nervión",2,0,0,2,0,0,0,2
-"242","MANUEL LUNA","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",0,4,0,0,4,0,0,4
-"243","MANZANA 54, JARDINES","","EL TARDON-EL CARMEN","Triana",148,0,0,134,14,0,0,148
-"244","MANZANA 54, JARDINES","Plaza o Jardín","EL TARDON-EL CARMEN","Triana",3,0,0,0,3,0,0,3
-"245","MARÍA PITA, JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",1,6,0,6,1,0,0,7
-"246","MARIANO MOTA","Plaza o Jardín","AMATE","Cerro-Amate",6,3,0,5,4,0,0,9
-"247","Marineros Voluntarios, Glorieta","","EL PRADO-PARQUE MARIA LUISA","Sur",1,0,0,0,1,0,0,1
-"248","Marineros Voluntarios, Glorieta","","SANTA CRUZ","Casco Antiguo",1,0,0,0,1,0,0,1
-"249","Martillo, Calle","Arbolado Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",0,3,0,0,3,0,0,3
-"250","MARTINETE (EL)","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"251","MAYOR,JARDINES PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",4,0,0,0,4,0,0,4
-"252","Medicos sin Fronteras, calle","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",1,4,0,0,5,0,0,5
-"253","MÉDICOS SIN FRONTERAS, JARDINES","Parque Urbano","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",3,7,0,10,0,0,0,10
-"254","MENIPPO","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",0,2,0,0,2,0,0,2
-"255","METALURGIA","Medianas y Glorietas","AEROPUERTO VIEJO","Norte",3,0,0,2,1,0,0,3
-"256","Montesierra","Jardinería Asociada a Viario","SANTA CLARA","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"257","Muelle Camaronero","Plaza o Jardín","TRIANA CASCO ANTIGUO","Triana",1,19,7,5,8,0,7,13
-"258","Muelle de Nueva York","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",8,0,0,0,8,0,0,8
-"259","Muro de Defensa","","BARRIO LEON","Triana",0,6,0,6,0,0,0,6
-"260","Muro de Defensa","","EL TARDON-EL CARMEN","Triana",0,2,0,0,2,0,0,2
-"261","Muro de Defensa","","TRIANA OESTE","Triana",6,0,0,0,6,0,0,6
-"262","NIÑO DE VALLECAS (EL)","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",0,3,0,0,3,0,0,3
-"263","NORTE (junto asentamiento del Vacie), PARQUE","Parque Urbano","LOS PRINCIPES-LA FONTANILLA","Macarena",22,529,3,17,125,406,181,370
-"264","NORTE PINO MONTANO, PARQUE","Parque Urbano","BARRIADA PINO MONTANO","Norte",28,49,17,35,24,1,46,31
-"265","Nuestra Señora de los Desamparados, Calle","Arbolado Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",1,0,0,0,1,0,0,1
-"266","Nuevo Cauce del Guadaira-Palmas Altas","Parque Periurbano","BELLAVISTA","Bellavista-La Palmera",0,19,0,19,0,0,0,19
-"267","ONGs, Avda.","Arbolado Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",0,4,0,0,4,0,0,4
-"268","OPERA CARMEN","Arbolado Viario","SANTA CLARA","San Pablo-Santa Justa",25,4,3,11,9,6,7,22
-"269","PADRE CASTRO, PLAZA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",11,8,0,3,16,0,2,17
-"270","PALMERA (LA),AV","Arbolado Viario","SECTOR SUR-LA PALMERA-REINA MERCEDES","Bellavista-La Palmera",34,0,0,0,34,0,0,34
-"271","PARKING VEGA DE TRIANA","","TRIANA OESTE","Triana",42,17,6,21,0,32,3,56
-"272","PARQUE ANTIOQUIA.","Parque Urbano","SAN PABLO D Y E","San Pablo-Santa Justa",1,1,0,1,1,0,0,2
-"273","PARQUE BORDAS CHINCHURRETA","Parque Urbano","EL FONTANAL- MARIA AUXILIADORA- CARRETERA DE CARMONA","San Pablo-Santa Justa",2,19,0,0,2,19,19,2
-"274","Parque de Amate","","SANTA AURELIA-CANTABRICO-ATLANTICO- LA ROMERIA","Cerro-Amate",6,0,0,0,6,0,0,6
-"275","Parque de Amate","Parque Urbano","SANTA AURELIA-CANTABRICO-ATLANTICO- LA ROMERIA","Cerro-Amate",77,46,6,47,61,9,18,105
-"276","Parque de los Bermejales","Parque Periurbano","BELLAVISTA","Bellavista-La Palmera",81,1066,67,6,107,967,759,388
-"277","Parque de los Príncipes","","LOS REMEDIOS","Los Remedios",1,0,0,0,1,0,0,1
-"278","Parque de los Príncipes","Parque Urbano","LOS REMEDIOS","Los Remedios",162,45,0,94,112,1,0,207
-"279","Parque de María Luisa","","EL PRADO-PARQUE MARIA LUISA","Sur",2,0,0,0,2,0,0,2
-"280","Parque de María Luisa","Parque o Jardín Histórico","EL PRADO-PARQUE MARIA LUISA","Sur",386,103,19,146,302,22,70,419
-"281","Parque del Tamarguillo","Parque Periurbano","COLORES- ENTREPARQUES","Este-Alcosa- Torreblanca",1407,2402,5,197,1290,2317,779,3030
-"282","Parque del Tamarguillo","Parque Periurbano","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",118,293,12,86,119,194,183,228
-"283","Parque Guadaira I","Parque Periurbano","POLIGONO SUR","Sur",10,42,1,33,10,8,2,50
-"284","Parque Guadaira II","Parque Periurbano","BELLAVISTA","Bellavista-La Palmera",0,10,5,5,0,0,5,5
-"285","Parque Guadaira II","Parque Periurbano","EL CANO-BERMEJALES","Bellavista-La Palmera",0,9,9,0,0,0,9,0
-"286","Parque Guadaira II","Parque Periurbano","POLIGONO SUR","Sur",38,286,30,107,112,75,157,167
-"287","Parque Infanta Elena","","PALACIO DE CONGRESOS- URBADIEZ- ENTREPUENTES","Este-Alcosa- Torreblanca",0,1,0,0,0,1,1,0
-"288","Parque Infanta Elena","Parque Periurbano","COLORES- ENTREPARQUES","Este-Alcosa- Torreblanca",84,70,1,12,3,138,63,91
-"289","Parque Infanta Elena","Parque Periurbano","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",13,14,5,14,2,6,10,17
-"290","Parque Infanta Elena","Parque Periurbano","PALACIO DE CONGRESOS- URBADIEZ- ENTREPUENTES","Este-Alcosa- Torreblanca",896,1374,3,77,275,1915,939,1331
-"291","Parque Infanta Elena","Parque Periurbano","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",124,454,141,169,174,94,213,365
-"292","PARQUE LA MEDIA LUNITA","","EL PLANTINAR","Sur",10,0,0,2,8,0,0,10
-"293","Parque Miraflores I","Parque Urbano","AEROPUERTO VIEJO","Norte",23,10,5,9,19,0,7,26
-"294","Parque Miraflores I","Parque Urbano","EL GORDILLO","Norte",85,26,14,27,59,11,6,105
-"295","Parque Miraflores I","Parque Urbano","LAS ALMENAS","Norte",15,13,0,3,25,0,13,15
-"296","Parque Miraflores I","Parque Urbano","SAN DIEGO","Norte",0,2,2,0,0,0,0,2
-"297","Parque Miraflores II","Parque Urbano","EL GORDILLO","Norte",7,4,0,1,7,3,0,11
-"298","Parque Plaza del Olivo","","LOS PRINCIPES-LA FONTANILLA","Macarena",23,0,0,23,0,0,0,23
-"299","Parque San Jerónimo I y II","Parque Periurbano","","Triana",56,37,0,0,56,37,12,81
-"300","Parque San Jerónimo I y II","Parque Periurbano","LA BACHILLERA","Norte",1127,497,13,152,839,620,105,1519
-"301","Parque San Jerónimo I y II","Parque Periurbano","SAN JERONIMO","Norte",481,325,0,372,131,303,76,730
-"302","Parque Vega de Triana","Parque Periurbano","TRIANA OESTE","Triana",118,58,0,2,93,81,56,120
-"303","PARQUES DE ANDALUCÍA, JARDINES PLAZA","Plaza o Jardín","BARRIADA PINO MONTANO","Norte",75,0,0,2,73,0,0,75
-"304","PASAJE NUESTRA SEÑORA DE LA CONSOLACIóN","Sin Recepcionar","CONSOLACION","Norte",0,1,0,0,1,0,0,1
-"305","Pasarela","Medianas y Glorietas","EL PRADO-PARQUE MARIA LUISA","Sur",44,0,0,0,44,0,0,44
-"306","Pasarela","Medianas y Glorietas","SAN BERNARDO","Nervión",24,0,0,1,23,0,0,24
-"307","Pasarela","Medianas y Glorietas","SANTA CRUZ","Casco Antiguo",10,0,0,0,10,0,0,10
-"308","Paseo de Colón","Arbolado Viario","ARENAL","Casco Antiguo",89,12,5,76,16,4,0,101
-"309","Paseo de Colón","Arbolado Viario","SANTA CRUZ","Casco Antiguo",1,0,0,0,0,1,0,1
-"310","Paseo de Colón","Jardinería Asociada a Viario","ARENAL","Casco Antiguo",9,2,0,5,6,0,0,11
-"311","Paseo de Colón","Jardinería Asociada a Viario","SANTA CRUZ","Casco Antiguo",1,0,0,0,1,0,0,1
-"312","PASEO DE EUROPA","Arbolado Viario","EL CANO-BERMEJALES","Bellavista-La Palmera",1,0,0,0,1,0,0,1
-"313","Paseo Juan Carlos I (Casco Antiguo)","","SAN LORENZO","Casco Antiguo",1,5,0,0,3,3,2,4
-"314","Paseo Juan Carlos I (Casco Antiguo)","Plaza o Jardín","SAN LORENZO","Casco Antiguo",137,123,0,27,104,129,29,231
-"315","Paseo Juan Carlos I (Casco Antiguo)","Plaza o Jardín","SAN VICENTE","Casco Antiguo",34,49,0,12,32,39,0,83
-"316","Paseo Juan Carlos I (Macarena)","Plaza o Jardín","DOCTOR BARRAQUER- GRUPO RENFE- POLICLINICO","Macarena",54,102,0,24,0,132,17,139
-"317","Paseo Juan Carlos I (Macarena)","Plaza o Jardín","DOCTOR BARRAQUER-GRUPO RENFE- POLICLINICO","Macarena",0,51,0,0,51,0,0,51
-"318","Paseo Juan Carlos I (Macarena)","Plaza o Jardín","LA PAZ-LAS GOLONDRINAS","Macarena",10,32,0,7,11,24,15,27
-"319","Paseo Juan Carlos I (Macarena)","Plaza o Jardín","MACARENA TRES HUERTAS- MACARENA CINCO","Macarena",22,52,0,10,0,64,23,51
-"320","Paseo Juan Carlos I (Macarena)","Plaza o Jardín","MACARENA TRES HUERTAS-MACARENA CINCO","Macarena",0,18,0,2,16,0,0,18
-"321","PASEO LAS DELICIAS","Medianas y Glorietas","EL PRADO-PARQUE MARIA LUISA","Sur",2,0,0,0,2,0,0,2
-"322","PASEO NUESTRA SEÑORA DE LA O","Plaza o Jardín","TRIANA CASCO ANTIGUO","Triana",0,55,0,0,55,0,0,55
-"323","Patio Banderas","Arbolado Viario","SANTA CRUZ","Casco Antiguo",36,0,0,36,0,0,0,36
-"324","PEDRO SANTOS GóMEZ, JARDINES PLAZA","Plaza o Jardín","TRIANA OESTE","Triana",27,0,0,3,24,0,0,27
-"325","PEPE HILLO","Plaza o Jardín","SAN PABLO D Y E","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"326","PERIODISTA EMILIO SEGURA","Arbolado Viario","SAN BERNARDO","Nervión",1,0,0,1,0,0,0,1
-"327","PIANISTA JOSÉ ROMERO. PARQUE","","EL FONTANAL-MARIA AUXILIADORA- CARRETERA DE CARMONA","San Pablo-Santa Justa",0,56,0,0,56,0,0,56
-"328","PIANISTA JOSÉ ROMERO. PARQUE","Plaza o Jardín","EL FONTANAL- MARIA AUXILIADORA- CARRETERA DE CARMONA","San Pablo-Santa Justa",48,0,0,36,12,0,0,48
-"329","Pineda Parque","Arbolado Viario","PEDRO SALVADOR-LAS PALMERITAS- GUADAIRA","Bellavista-La Palmera",39,125,0,38,59,67,101,63
-"330","PINO DE SANTA CLARA (EL)","Arbolado Viario","SANTA CLARA","San Pablo-Santa Justa",0,1,0,1,0,0,1,0
-"331","PINO SIBERIA","Arbolado Viario","PALMETE","Cerro-Amate",1,0,0,0,1,0,0,1
-"332","PINTARROJA","","SAN JERONIMO","Norte",2,0,0,0,2,0,0,2
-"333","PIO XII, PZ","","PIO XII","Macarena",0,4,0,0,4,0,0,4
-"334","PIO XII, PZ","Arbolado Viario","PIO XII","Macarena",2,0,0,1,1,0,0,2
-"335","PIO XII, PZ","Plaza o Jardín","PIO XII","Macarena",25,0,0,6,19,0,0,25
-"336","PIROTECNIA","Parque Urbano","GIRALDA SUR","Sur",2,0,0,1,1,0,0,2
-"337","PLAZA ALCALDE HORACIO HERMOSO","Plaza o Jardín","TIRO DE LINEA-SANTA GENOVEVA","Sur",1,0,0,0,1,0,0,1
-"338","Plaza Alfaro","Arbolado Viario","SANTA CRUZ","Casco Antiguo",3,0,0,3,0,0,0,3
-"339","Plaza Alianza","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",10,0,0,10,0,0,0,10
-"340","PLAZA AVIADOR RUIZ DE ALDA","Plaza o Jardín","HUERTA DE LA SALUD","Sur",6,2,0,1,7,0,0,8
-"341","Plaza de Doña Elvira","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",13,0,0,13,0,0,0,13
-"342","PLAZA DE LA TONÁ","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",1,0,0,1,0,0,0,1
-"343","Plaza de los Refinadores (Medios Propios)","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",21,0,0,14,7,0,0,21
-"344","Plaza de los Venerables","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",2,0,0,2,0,0,0,2
-"345","Plaza de Refinadores","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",7,0,0,7,0,0,0,7
-"346","Plaza de Santa Cruz (Medios Propios)","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",30,0,0,4,26,0,0,30
-"347","Plaza del Triunfo","","SANTA CRUZ","Casco Antiguo",3,0,0,1,2,0,0,3
-"348","Plaza del Triunfo","Arbolado Viario","SANTA CRUZ","Casco Antiguo",20,0,0,20,0,0,0,20
-"349","Plaza del triunfo (Medios Propios)","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",5,10,0,5,0,10,0,15
-"350","PLAZA FCO. GRANADOS SALVADOR","","AMATE","Cerro-Amate",0,14,0,0,14,0,0,14
-"351","PLAZA LAS MENINAS","Arbolado Viario","SAN PABLO A Y B","San Pablo-Santa Justa",0,1,0,0,1,0,0,1
-"352","Plaza Letrados de Sevilla","Jardinería Asociada a Viario","TABLADA","Los Remedios",5,0,0,0,0,5,0,5
-"353","Plaza Santa Cruz","Plaza o Jardín","SANTA CRUZ","Casco Antiguo",15,0,0,15,0,0,0,15
-"354","PLAZA ZODIACO","Plaza o Jardín","LOS PAJAROS","Cerro-Amate",8,0,0,0,8,0,0,8
-"355","PMI Triana-Los Remedios - Monte Pirolo - Consumo","Edificios Municipales","TRIANA OESTE","Triana",2,0,0,0,2,0,0,2
-"356","Praderas de Malaga","","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",3,0,0,3,0,0,0,3
-"357","Praderas de Malaga","Jardinería Asociada a Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",0,5,0,0,5,0,0,5
-"358","Praderas de Malaga","Jardinería Asociada a Viario","PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES","Este-Alcosa-Torreblanca",4,8,0,7,5,0,1,11
-"359","PRESIDENTE ADOLFO SUAREZ","","LOS REMEDIOS","Los Remedios",7,0,0,0,7,0,0,7
-"360","PRESIDENTE ADOLFO SUAREZ","Arbolado Viario","LOS REMEDIOS","Los Remedios",6,2,1,1,6,0,0,8
-"361","Primo Nebiolo, Calle","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",1,3,0,0,4,0,0,4
-"362","PUEBLO PALESTINO JARDINES PLAZA","Plaza o Jardín","LOS PRINCIPES-LA FONTANILLA","Macarena",3,1,0,0,4,0,0,4
-"363","PUEBLO SAHARAUI","Arbolado Viario","LAS HUERTAS","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"364","PUENTE PASARELA DE LA CARTUJA","","TRIANA OESTE","Triana",3,0,0,3,0,0,0,3
-"365","Puerta de Jerez","","SANTA CRUZ","Casco Antiguo",0,1,0,0,0,1,0,1
-"366","Puerta de Jerez","Arbolado Viario","SANTA CRUZ","Casco Antiguo",18,10,0,15,0,13,0,28
-"367","Puerta de Jerez ( Medios Propios)","Medianas y Glorietas","SANTA CRUZ","Casco Antiguo",0,8,0,0,0,8,0,8
-"368","PZ ALTOZANO","Plaza o Jardín","TRIANA CASCO ANTIGUO","Triana",2,2,2,1,1,0,2,2
-"369","PZ BEETHOVEN","Plaza o Jardín","CRUZ ROJA-CAPUCHINOS","Macarena",16,24,0,3,37,0,0,40
-"370","PZ CONCORDIA","Plaza o Jardín","ENCARNACION-REGINA","Casco Antiguo",5,0,0,0,4,1,0,5
-"371","PZ CUBA","","LOS REMEDIOS","Los Remedios",4,0,0,0,4,0,0,4
-"372","PZ CUBA","Medianas y Glorietas","LOS REMEDIOS","Los Remedios",10,0,0,7,2,1,0,10
-"373","PZ CUBA","Medianas y Glorietas","TRIANA CASCO ANTIGUO","Triana",8,0,0,0,8,0,0,8
-"374","PZ DUQUESA CAYETANA DE ALBA","Medianas y Glorietas","DOCTOR BARRAQUER-GRUPO RENFE- POLICLINICO","Macarena",7,0,0,7,0,0,4,3
-"375","PZ DUQUESA CAYETANA DE ALBA","Medianas y Glorietas","SAN LORENZO","Casco Antiguo",7,0,0,7,0,0,4,3
-"376","PZ ESCULA DE CRISTO","","SANTA CRUZ","Casco Antiguo",1,0,0,0,1,0,0,1
-"377","PZ GAVIDIA","Arbolado Viario","ENCARNACION-REGINA","Casco Antiguo",1,0,0,0,1,0,0,1
-"378","PZ LA AUTONOMIA","Sin Recepcionar","PIO XII","Macarena",16,0,0,0,16,0,0,16
-"379","PZ MANUEL GARRIDO","","LA BARZOLA","Macarena",2,0,0,0,2,0,0,2
-"380","PZ MANUEL GARRIDO","Plaza o Jardín","LA BARZOLA","Macarena",2,3,0,0,5,0,0,5
-"381","PZ PADRE JERONIMO DE CORDOBA","Arbolado Viario","SANTA CATALINA","Casco Antiguo",2,0,0,0,2,0,0,2
-"382","PZ PILATOS","Plaza o Jardín","SAN BARTOLOME","Casco Antiguo",15,0,0,0,15,0,0,15
-"383","PZ SALESIANO DON UBALDO","","TRIANA ESTE","Triana",65,1,0,0,60,6,1,65
-"384","PZ SAN MARTIN DE PORRES","Plaza o Jardín","BARRIO LEON","Triana",1,0,0,1,0,0,0,1
-"385","PZ SAN MARTIN DE PORRES","Plaza o Jardín","TRIANA ESTE","Triana",2,0,0,0,2,0,0,2
-"386","RAFAEL LAFFON","Arbolado Viario","SAN CARLOS-TARTESSOS","San Pablo-Santa Justa",2,1,0,2,1,0,0,3
-"387","Rafael Montesiones, Jardines","Plaza o Jardín","ARENAL","Casco Antiguo",60,44,32,3,19,50,31,73
-"388","RAFAEL SALGADO","Arbolado Viario","BAMI","Sur",24,0,0,4,20,0,0,24
-"389","Rastrillo, Calle","Parque Periurbano","PALACIO DE CONGRESOS- URBADIEZ- ENTREPUENTES","Este-Alcosa- Torreblanca",13,0,0,0,11,2,0,13
-"390","Republica de China","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",3,9,2,1,9,0,0,12
-"391","RONDA TAMARGUILLO ISLETA ALCAMPO","Medianas y Glorietas","AVENIDA DE LA PAZ","Sur",4,1,0,4,1,0,0,5
-"392","RONDA TAMARGUILLO ISLETA ALCAMPO","Medianas y Glorietas","EL PLANTINAR","Sur",3,0,0,2,1,0,0,3
-"393","RONDEÑA (LA)","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",1,0,0,1,0,0,0,1
-"394","ROTONDA 112","Jardinería Asociada a Viario","TORREBLANCA","Este-Alcosa-Torreblanca",0,1,0,1,0,0,0,1
-"395","ROTONDA AVDA LAS CIENCIAS-FLORA TRISTAN","Medianas y Glorietas","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",26,6,1,16,14,1,4,28
-"396","Rotonda de la Glorieta de los Marineros (Medios Propios)","","EL PRADO-PARQUE MARIA LUISA","Sur",5,0,0,0,5,0,0,5
-"397","ROTONDA MIGUEL ANGEL BLANCO","Medianas y Glorietas","POLIGONO SUR","Sur",2,6,0,0,8,0,0,8
-"398","RUPERTO CHAPI GLORIETA","","AMATE","Cerro-Amate",0,1,0,0,1,0,0,1
-"399","RUPERTO CHAPI GLORIETA","","CIUDAD JARDIN","Nervión",5,3,0,1,7,0,0,8
-"400","RUPERTO CHAPI GLORIETA","","EL CERRO","Cerro-Amate",12,3,0,5,10,0,0,15
-"401","Salvador Valverde, Plaza","Plaza o Jardín","TORREBLANCA","Este-Alcosa-Torreblanca",5,0,0,0,5,0,0,5
-"402","San Juan de Ribera","Medianas y Glorietas","LEON XIII-LOS NARANJOS","Macarena",4,0,0,1,3,0,0,4
-"403","SANTA FE","Medianas y Glorietas","LOS REMEDIOS","Los Remedios",2,0,0,0,2,0,0,2
-"404","SANTA ISABEL, JARDINES PLAZA","Plaza o Jardín","SAN JULIAN","Casco Antiguo",3,2,0,0,5,0,0,5
-"405","Santa Marta","Arbolado Viario","SANTA CRUZ","Casco Antiguo",6,0,0,6,0,0,0,6
-"406","SECTOR 11 (Fernanda Calado Rosales), PLAZA ARBOLADA","Plaza o Jardín","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",37,0,0,0,37,0,0,37
-"407","SECTOR 14, PARQUE","Sin Recepcionar","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",36,0,0,0,36,0,0,36
-"408","SECTOR 15, PLAZA AJARDINADA","Plaza o Jardín","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",20,0,0,0,20,0,0,20
-"409","SERRUCHO","","AEROPUERTO VIEJO","Norte",1,1,0,1,1,0,0,2
-"410","SOLEA (LA), AVDA","Arbolado Viario","SAN PABLO A Y B","San Pablo-Santa Justa",0,4,0,0,3,1,0,4
-"411","SOLEARILLA (LA)","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",3,0,0,0,3,0,0,3
-"412","SUEÑO DEL PATRICIO","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",12,0,0,0,12,0,0,12
-"413","SUR PINO MONTANO. PARQUE","Parque Urbano","BARRIADA PINO MONTANO","Norte",123,15,0,117,21,0,0,138
-"414","Taiwan, Calle","Medianas y Glorietas","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",2,25,0,4,23,0,4,23
-"415","TARSO","","SAN PABLO A Y B","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"416","TARSO","Medianas y Glorietas","SAN PABLO A Y B","San Pablo-Santa Justa",4,6,0,2,8,0,0,10
-"417","TARSO","Medianas y Glorietas","SANTA CLARA","San Pablo-Santa Justa",2,0,0,0,0,2,0,2
-"418","TERMODINACA","","LA BACHILLERA","Norte",0,2,1,0,1,0,0,2
-"419","TESALONICA","Medianas y Glorietas","SAN PABLO D Y E","San Pablo-Santa Justa",2,0,0,0,2,0,0,2
-"420","TIENTOS (LOS)","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"421","Tigris, Calle","Arbolado Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",1,28,0,0,29,0,0,29
-"422","TORCUATO LUCA DE TENA,CL","Arbolado Viario","POLIGONO SUR","Sur",0,169,169,0,0,0,169,0
-"423","TORRE  PERDIGONES,PARQUE","Parque Urbano","DOCTOR BARRAQUER-GRUPO RENFE- POLICLINICO","Macarena",39,0,0,8,31,0,0,39
-"424","TRASERA AYORA-CULLERA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",1,1,0,1,1,0,0,2
-"425","TRASERA CIUDAD DE CULLERA - CIUDAD DE CARLET","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",0,2,0,0,2,0,0,2
-"426","TRASERA CIUDAD DE ONTENIENTE","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",0,1,0,0,1,0,0,1
-"427","TRASERA CIUDAD DE SUECA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",1,0,0,0,1,0,0,1
-"428","TRASERA ONTENIENTE-CARCAGENTE","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",5,0,0,0,5,0,0,5
-"429","TRASERA SUECA-GANDIA","Plaza o Jardín","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",7,2,0,5,4,0,1,8
-"430","TROVADOR","","HUERTA DEL PILAR","Nervión",1,0,0,0,1,0,0,1
-"431","Turia, Avenida","Arbolado Viario","PARQUE ALCOSA-JARDINES DEL EDEN","Este-Alcosa-Torreblanca",1,0,0,0,1,0,0,1
-"432","U.G. Glorieta Buenos Aires","Medianas y Glorietas","EL PRADO-PARQUE MARIA LUISA","Sur",2,0,0,0,2,0,0,2
-"433","UG Avenida María Luisa","Arbolado Viario","SANTA CRUZ","Casco Antiguo",32,0,0,0,32,0,0,32
-"434","UG Paseo Juan Carlos I Talud (Lote 3)","Plaza o Jardín","SAN VICENTE","Casco Antiguo",2,54,0,0,3,53,31,25
-"435","Ulises, Calle","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",4,4,0,2,5,1,1,7
-"436","URBANIZACIóN  POLÍGONO AEROPUERTO, PARQUE","Parque Urbano","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",5,0,0,0,5,0,0,5
-"437","URBANIZACIóN P-7 (PINO MONTANO), PARQUE","Parque Urbano","BARRIADA PINO MONTANO","Norte",80,11,0,23,53,15,0,91
-"438","Urbano Orad","Arbolado Viario","COLORES-ENTREPARQUES","Este-Alcosa-Torreblanca",4,8,0,3,9,0,0,12
-"439","VERDIALES (LAS)","Plaza o Jardín","SAN PABLO A Y B","San Pablo-Santa Justa",1,2,2,0,1,0,0,3
-"440","VIA APIA","Arbolado Viario","PALMETE","Cerro-Amate",4,0,0,4,0,0,4,0
-"441","VIA APIA","Arbolado Viario","TORREBLANCA","Este-Alcosa-Torreblanca",1,0,0,1,0,0,1,0
-"442","VICENTE ALEIXANDRE","Plaza o Jardín","EL PORVENIR","Sur",10,0,0,0,10,0,0,10
-"443","VILLAS DE CUBA (LAS)","Arbolado Viario","SANTA CLARA","San Pablo-Santa Justa",1,0,0,0,1,0,0,1
-"444","VIRGEN DE LA ANTIGUA","","LOS REMEDIOS","Los Remedios",5,0,0,0,5,0,0,5
-"445","VIRGEN DE LA HUMILDAD","","SAN PABLO A Y B","San Pablo-Santa Justa",0,2,0,0,2,0,0,2
-"446","VIRGEN DE LA OLIVA","Medianas y Glorietas","LOS REMEDIOS","Los Remedios",0,3,0,0,3,0,0,3
-"447","Virgen de los Reyes","","SANTA CRUZ","Casco Antiguo",1,0,0,1,0,0,0,1
-"448","Virgen de los Reyes","Arbolado Viario","SANTA CRUZ","Casco Antiguo",26,0,0,26,0,0,0,26
-"449","VIRGEN DE ROBLEDO","Jardinería Asociada a Viario","LOS REMEDIOS","Los Remedios",3,0,0,0,3,0,0,3
-"450","VIRGEN DEL PILAR, JARDÍN PLAZA.","Plaza o Jardín","LA BARZOLA","Macarena",20,0,0,20,0,0,0,20
-"451","VIRGEN SANTA MARÍA DEL MAR, JARDINES","Parque Urbano","CISNEO ALTO-SANTA MARIA DE GRACIA","Macarena",10,11,0,3,18,0,0,21
-"452","Z.V. Alcalde Isacio Contreras","Plaza o Jardín","LA FLORIDA","Nervión",45,1,1,11,21,13,1,45
-"453","Z.V. Av. de la Buhaira","Medianas y Glorietas","HUERTA DEL PILAR","Nervión",1,0,0,0,1,0,0,1
-"454","Z.V. Av. Portugal- Rda. Capitanía","Jardinería Asociada a Viario","EL PRADO-PARQUE MARIA LUISA","Sur",8,1,1,5,3,0,6,3
-"455","Z.V. Avenida de Grecia","Jardinería Asociada a Viario","EL CANO-BERMEJALES","Bellavista-La Palmera",6,7,0,8,5,0,0,13
-"456","Z.V. Avenidas Eritaña y Moliní","","EL PRADO-PARQUE MARIA LUISA","Sur",3,0,0,0,3,0,0,3
-"457","Z.V. Avenidas Eritaña y Moliní","","SECTOR SUR-LA PALMERA-REINA MERCEDES","Bellavista-La Palmera",1,0,0,0,1,0,0,1
-"458","Z.V. Bermejales Sur","Parque Periurbano","BELLAVISTA","Bellavista-La Palmera",96,0,0,0,96,0,0,96
-"459","Z.V. Bermejales Sur","Parque Periurbano","EL CANO-BERMEJALES","Bellavista-La Palmera",93,0,0,0,93,0,0,93
-"460","Z.V. Calle Amor","Medianas y Glorietas","SANTA AURELIA-CANTABRICO-ATLANTICO- LA ROMERIA","Cerro-Amate",4,1,0,3,2,0,0,5
-"461","Z.V. Calle Amsterdam","Plaza o Jardín","EL CANO-BERMEJALES","Bellavista-La Palmera",2,0,0,0,2,0,0,2
-"462","Z.V. Canal Ranilla Torbizcon","Plaza o Jardín","PALMETE","Cerro-Amate",0,3,0,0,3,0,0,3
-"463","Z.V. Dolores Ibarruri","Plaza o Jardín","AVENIDA DE LA PAZ","Sur",1,0,0,0,1,0,0,1
-"464","Z.V. Dr. Pedro de Castro","","HUERTA DE LA SALUD","Sur",1,0,0,0,0,1,0,1
-"465","Z.V. Dr. Pedro de Castro","Jardinería Asociada a Viario","HUERTA DE LA SALUD","Sur",5,0,0,1,4,0,0,5
-"466","Z.V. Eduardo Dato-Campo Sevilla","Jardinería Asociada a Viario","LA BUHAIRA","Nervión",10,0,0,3,7,0,1,9
-"467","Z.V. General Palanca y Nucleo residencial Ruiz de Toledo","Plaza o Jardín","GIRALDA SUR","Sur",15,8,6,0,15,2,6,17
-"468","Z.V. Glorieta Menacho López y próxima","Medianas y Glorietas","PALMETE","Cerro-Amate",3,11,0,3,11,0,0,14
-"469","Z.V. Huerta San Gonzalo","Plaza o Jardín","EL CANO-BERMEJALES","Bellavista-La Palmera",23,0,0,3,20,0,0,23
-"470","Z.V. Jardín de Andalucía","Parque Urbano","BELLAVISTA","Bellavista-La Palmera",33,4,1,25,11,0,2,35
-"471","Z.V. Jardín de la Alhambra","Parque Urbano","BELLAVISTA","Bellavista-La Palmera",85,7,0,7,85,0,0,92
-"472","Z.V. Jardín de la Calle Navas","Plaza o Jardín","PALMETE","Cerro-Amate",9,7,5,2,9,0,5,11
-"473","Z.V. Jardín de la Primavera","Parque Urbano","BELLAVISTA","Bellavista-La Palmera",16,16,15,13,4,0,15,17
-"474","Z.V. Jardín de la Solidaridad","Plaza o Jardín","BELLAVISTA","Bellavista-La Palmera",6,1,0,6,1,0,0,7
-"475","Z.V. Jardín Rafael García Miguel","Plaza o Jardín","LA PLATA","Cerro-Amate",23,13,9,8,19,0,9,27
-"476","Z.V. Jardines Calle Huestes","Plaza o Jardín","LA BUHAIRA","Nervión",13,0,0,13,0,0,0,13
-"477","Z.V. Jardines Calle Monzón","Parque Urbano","SECTOR SUR-LA PALMERA-REINA MERCEDES","Bellavista-La Palmera",21,0,0,15,6,0,0,21
-"478","Z.V. Jardines de Don Otilio","Parque Urbano","LOS REMEDIOS","Los Remedios",9,4,0,5,8,0,5,8
-"479","Z.V. Jardines de Hércules","","BELLAVISTA","Bellavista-La Palmera",137,230,0,87,255,25,4,363
-"480","Z.V. Jardines de Hércules","Parque Urbano","BELLAVISTA","Bellavista-La Palmera",16,62,0,16,62,0,0,78
-"481","Z.V. Jardines de la calle Algaba","Parque Urbano","LA PLATA","Cerro-Amate",3,0,0,0,3,0,0,3
-"482","Z.V. Jardines de la Calle Imprenta","Plaza o Jardín","PALMETE","Cerro-Amate",71,56,0,9,113,5,4,123
-"483","Z.V. Jardines de la Calzada","Parque Urbano","LA CALZADA","Nervión",54,24,7,40,31,0,5,73
-"484","Z.V. Jardines de la Plaza de la Carlota","Plaza o Jardín","PALMETE","Cerro-Amate",0,7,7,0,0,0,7,0
-"485","Z.V. Jardines de Manuel Ferrand","Parque Urbano","LOS REMEDIOS","Los Remedios",16,3,0,10,9,0,0,19
-"486","Z.V. JARDINES DE SAN BERNARDO","Parque Urbano","SAN BERNARDO","Nervión",20,16,4,1,16,15,2,34
-"487","Z.V. Jardines Del Mediterráneo","Plaza o Jardín","PALMETE","Cerro-Amate",2,12,1,7,4,2,2,12
-"488","Z.V. Jardines del Paseo de Europa","Parque Urbano","EL CANO-BERMEJALES","Bellavista-La Palmera",94,8,8,33,60,1,8,94
-"489","Z.V. Jardines del Prado de San Sebastián","Parque Urbano","EL PRADO-PARQUE MARIA LUISA","Sur",113,24,20,51,65,1,7,130
-"490","Z.V. Jardines Felipe II","Parque Urbano","FELIPE II-LOS DIEZ MANDAMIENTOS","Sur",108,1,0,0,109,0,0,109
-"491","z.v. Jardines Manuel Arellano","Parque Urbano","LOS REMEDIOS","Los Remedios",41,16,3,15,39,0,3,54
-"492","Z.V. Jardines Manuel Benítez Carrasco","Parque Urbano","POLIGONO SUR","Sur",132,25,9,77,71,0,16,141
-"493","Z.V. Jardines Plaza Poeta Miguel Hernández (C/Estoril)","","ROCHELAMBERT","Cerro-Amate",2,0,0,0,2,0,0,2
-"494","Z.V. Jardines Plaza Poeta Miguel Hernández (C/Estoril)","Plaza o Jardín","ROCHELAMBERT","Cerro-Amate",18,7,0,3,22,0,0,25
-"495","Z.V. Juan Carvallo","Jardinería Asociada a Viario","ROCHELAMBERT","Cerro-Amate",33,34,14,2,38,13,25,42
-"496","Z.V. LAS MELIAS","Plaza o Jardín","PALMETE","Cerro-Amate",41,3,0,41,3,0,0,44
-"497","Z.V. LOS NARANJITOS","Plaza o Jardín","BELLAVISTA","Bellavista-La Palmera",0,3,0,0,3,0,0,3
-"498","Z.V. Luis Rosales","Jardinería Asociada a Viario","TABLADILLA-LA ESTRELLA","Sur",3,0,0,3,0,0,0,3
-"499","Z.V. Parque Cavestany","Parque Urbano","LA CALZADA","Nervión",1,3,2,2,0,0,0,4
-"500","Z.V. Parque Celestino Mutis","Parque Urbano","POLIGONO SUR","Sur",107,13,11,17,89,3,18,102
-"501","Z.V. Parque Ciudad Jardín","Parque Urbano","CIUDAD JARDIN","Nervión",6,0,0,1,5,0,0,6
-"502","Z.V. Parque de la Buhaira","Parque o Jardín Histórico","LA BUHAIRA","Nervión",118,54,24,86,61,1,24,148
-"503","Z.V. Parque de la Música","Parque Urbano","LA PLATA","Cerro-Amate",75,16,13,22,23,33,16,75
-"504","Z.V. Parque de la Negrilla (Forja XXI)","Parque Urbano","PALMETE","Cerro-Amate",0,1,0,1,0,0,1,0
-"505","Z.V. Parque Federico García Lorca","Parque Urbano","NERVION","Nervión",25,1,0,0,23,3,1,25
-"506","Z.V. Parque Hacienda de San Antonio","Parque Urbano","PALMETE","Cerro-Amate",0,52,0,2,50,0,2,50
-"507","Z.V. Parque Jardines de San Diego","Plaza o Jardín","SAN DIEGO","Norte",19,3,0,14,8,0,0,22
-"508","Z.V. Parque Pirineos Santo Domingo","Parque Urbano","HUERTA DEL PILAR","Nervión",10,10,10,0,10,0,10,10
-"509","Z.V. Parque Ranilla (Antigua cárcel)","Parque Urbano","NERVION","Nervión",75,24,0,71,28,0,2,97
-"510","Z.V. Parque Rectora Rosario Valpuesta","Parque Urbano","GIRALDA SUR","Sur",36,0,0,7,29,0,0,36
-"511","Z.V. Parterres Calle Las Leandras","Jardinería Asociada a Viario","JUAN XXIII","Cerro-Amate",2,6,0,1,7,0,0,8
-"512","Z.V. Parterres Calles General Ollero y Tamar","Jardinería Asociada a Viario","SANTA AURELIA-CANTABRICO-ATLANTICO- LA ROMERIA","Cerro-Amate",2,2,0,0,4,0,0,4
-"513","Z.V. Parterres Gran Plaza","","NERVION","Nervión",8,0,0,3,3,2,0,8
-"514","Z.V. Parterres Gran Plaza","Plaza o Jardín","NERVION","Nervión",9,13,0,0,20,2,0,22
-"515","Z.V. Plaza Aljarafe","Plaza o Jardín","EL PLANTINAR","Sur",2,8,4,0,6,0,4,6
-"516","Z.V. Plaza Cristo de La Misión","Plaza o Jardín","SECTOR SUR-LA PALMERA-REINA MERCEDES","Bellavista-La Palmera",14,0,0,0,14,0,0,14
-"517","Z.V. Plaza Juan XXIII","Plaza o Jardín","JUAN XXIII","Cerro-Amate",14,0,0,0,14,0,0,14
-"518","Z.V. Puerto de la Mora","Plaza o Jardín","ROCHELAMBERT","Cerro-Amate",34,4,1,17,20,0,1,37
-"519","Z.V. Puerto del Escudo","Jardinería Asociada a Viario","ROCHELAMBERT","Cerro-Amate",0,1,1,0,0,0,1,0
-"520","Z.V. Ramón y Cajal","Jardinería Asociada a Viario","EL JUNCAL-HISPALIS","Sur",29,8,0,14,23,0,0,37
-"521","Z.V. Rotonda Avenida Finlandia","Medianas y Glorietas","EL CANO-BERMEJALES","Bellavista-La Palmera",1,0,0,0,1,0,0,1
-"522","Z.V. Rotonda final Palmete","Medianas y Glorietas","","",5,0,0,1,0,4,0,5
-"523","Z.V. Rotondas Palmete","Medianas y Glorietas","PALMETE","Cerro-Amate",4,3,0,0,7,0,0,7
-"524","Z.V. Venta de Antequera","Parque Urbano","BELLAVISTA","Bellavista-La Palmera",14,4,0,18,0,0,0,18
+id,Parque,Tipologia,Barrio,Distrito,exotica,nativa,pol_alta,pol_media,pol_baja,pol_nula,paj_alta,paj_nula
+1,"Acogida (La), Plaza",Medianas y Glorietas,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,5,3,0,2,6,0,0,8
+2,"Adolfo Rodríguez Jurado, Isleta",Plaza o Jardín,SANTA CRUZ,Casco Antiguo,3,0,0,3,0,0,0,3
+3,ADORACION DE LOS PASTORES,Plaza o Jardín,LAS HUERTAS,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+4,ADORACION DE LOS PASTORES,Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+5,AGUADOR DE SEVILLA (EL),Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,2,0,0,2,0,0,0,2
+6,AGUSTIN ARGUELLES,Arbolado Viario,NERVION,Nervión,2,0,0,2,0,0,0,2
+7,AHORRO,Arbolado Viario,SANTA CLARA,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+8,"ALBERCHE, CL",Arbolado Viario,EL JUNCAL-HISPALIS,Sur,6,0,0,2,4,0,0,6
+9,ALBOREA,Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+10,Alcalde Luis Uruñuela,,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,0,1,0,0,1,0,0,1
+11,Alcalde Luis Uruñuela,Medianas y Glorietas,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,20,7,10,6,11,0,7,20
+12,Alcalde Luis Uruñuela,Medianas y Glorietas,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,15,29,7,20,16,1,8,36
+13,Alcalde Luis Uruñuela,Medianas y Glorietas,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,4,1,0,4,1,0,0,5
+14,"ALFREDO ROMERO VERDUGO,ROTONDA",Medianas y Glorietas,BELLAVISTA,Bellavista-La Palmera,6,0,0,6,0,0,6,0
+15,ALICATES,Arbolado Viario,AEROPUERTO VIEJO,Norte,0,3,0,0,3,0,0,3
+16,"Alquitira, Plaza",Plaza o Jardín,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,1,0,0,0,1,0,0,1
+17,"Altamira, Avenida",Jardinería Asociada a Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,2,14,0,3,12,1,1,15
+18,AMBROSIO DE LA CUESTA,,BELLAVISTA,Bellavista-La Palmera,0,1,0,0,1,0,1,0
+19,AMORES AMORIOS,Arbolado Viario,FELIPE II-LOS DIEZ MANDAMIENTOS,Sur,1,0,0,0,1,0,0,1
+20,ANDALUCIA,Arbolado Viario,SANTA CLARA,San Pablo-Santa Justa,22,36,0,9,49,0,0,58
+21,ANTIOQUIA,Arbolado Viario,SAN PABLO D Y E,San Pablo-Santa Justa,2,0,0,1,1,0,0,2
+22,Antonio Buero Vallejo,Arbolado Viario,DOCTOR BARRAQUER-GRUPO RENFE- POLICLINICO,Macarena,0,2,0,0,2,0,2,0
+23,ANTONIO DE LARA,Arbolado Viario,SAN PABLO D Y E,San Pablo-Santa Justa,1,0,0,1,0,0,0,1
+24,"ARCO IRIS, JARD═N PLAZA",Plaza o Jardín,SAN JERONIMO,Norte,1,0,0,0,0,1,0,1
+25,"ARCO IRIS, JARDÍN PLAZA",Plaza o Jardín,SAN JERONIMO,Norte,4,25,0,2,27,0,0,29
+26,"Artesa, Calle",Arbolado Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,7,8,0,0,13,2,0,15
+27,AUTOMOCION,Arbolado Viario,AEROPUERTO VIEJO,Norte,1,0,0,0,1,0,0,1
+28,AV BLAS INFANTE,Arbolado Viario,EL TARDON-EL CARMEN,Triana,12,0,0,0,12,0,0,12
+29,AV BLAS INFANTE,Arbolado Viario,TABLADA,Los Remedios,6,0,0,0,6,0,0,6
+30,AV CARLOS III,Medianas y Glorietas,TRIANA OESTE,Triana,9,2,0,6,5,0,0,11
+31,AV CONCEJAL ALBERTO JIMENEZ- BECERRIL,Medianas y Glorietas,DOCTOR BARRAQUER-GRUPO RENFE- POLICLINICO,Macarena,7,0,0,0,7,0,0,7
+32,AV JUAN PABLO II,Arbolado Viario,TABLADA,Los Remedios,4,0,0,0,4,0,0,4
+33,AVENIDA DE EL GRECO,Jardinería Asociada a Viario,SAN PABLO A Y B,San Pablo-Santa Justa,10,2,0,6,6,0,0,12
+34,Avenida Expo 92,Medianas y Glorietas,TRIANA OESTE,Triana,25,0,0,1,22,2,0,25
+35,AVIACION,Arbolado Viario,AEROPUERTO VIEJO,Norte,9,5,0,3,11,0,0,14
+36,AVION CUATRO VIENTOS,,EL PLANTINAR,Sur,4,0,0,0,4,0,0,4
+37,"AZAHÍN, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,253,3,0,14,241,1,0,256
+38,Bajos de Contadero,Plaza o Jardín,ARENAL,Casco Antiguo,142,50,0,4,155,33,0,192
+39,Bajos de Contadero,Plaza o Jardín,SANTA CRUZ,Casco Antiguo,16,0,0,1,15,0,0,16
+40,BALTASAR DE ALCAZAR,Arbolado Viario,LA CORZA,San Pablo-Santa Justa,2,0,0,0,2,0,0,2
+41,BARRIADA VILLEGAS JARDINES PLAZA,Plaza o Jardín,VILLEGAS,Macarena,6,13,0,0,19,0,0,19
+42,BELLAVISTA,Arbolado Viario,BELLAVISTA,Bellavista-La Palmera,2,5,0,0,7,0,5,2
+43,BENITO MAS Y PRAT,Arbolado Viario,LA BUHAIRA,Nervión,12,0,0,0,12,0,0,12
+44,"BIB RAMBLA, PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,51,0,0,0,50,1,0,51
+45,BIOLOGIA,Arbolado Viario,LA BACHILLERA,Norte,0,3,3,0,0,0,0,3
+46,BOMBITA,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+47,BUEN PASTOR NIÑO,Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+48,Bulevar de los Arcos,Medianas y Glorietas,NERVION,Nervión,5,0,0,5,0,0,5,0
+49,Bulevar de los Arcos,Medianas y Glorietas,SANTA CLARA,San Pablo-Santa Justa,5,0,0,5,0,0,5,0
+50,C.E.Perm. San Pablo - Las Aguas,Edificios Municipales,SAN PABLO A Y B,San Pablo-Santa Justa,2,0,0,0,2,0,0,2
+51,C.F.Perm. Polígono Sur ( CODE),Edificios Municipales,POLIGONO SUR,Sur,2,0,0,0,2,0,0,2
+52,CALLE AMERICA MARTINEZ,Arbolado Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,3,3,0,2,4,0,0,6
+53,CALLE CASTILLA,Arbolado Viario,TRIANA CASCO ANTIGUO,Triana,2,2,0,2,2,0,2,2
+54,"CALLE RUBI, JARDINES PLAZA",,LAS AVENIDAS,Macarena,27,0,0,0,27,0,0,27
+55,CANAL DE LOS PRESOS,Plaza o Jardín,TORREBLANCA,Este-Alcosa-Torreblanca,7,1,0,1,7,0,0,8
+56,CANAL RANILLA,Jardinería Asociada a Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,1,0,0,0,1,0,0,1
+57,"CAPUCHINOS, JARDÍN.",Plaza o Jardín,CRUZ ROJA-CAPUCHINOS,Macarena,59,19,10,31,36,1,10,68
+58,CARABELA SANTA MARIA,Plaza o Jardín,SANTA CLARA,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+59,"Carlinga, Calle",Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,7,9,0,0,16,0,0,16
+60,"CARLOS V,AV",Arbolado Viario,EL PRADO-PARQUE MARIA LUISA,Sur,1,0,0,1,0,0,0,1
+61,"CARLOS V,AV",Arbolado Viario,SAN BERNARDO,Nervión,2,0,0,0,2,0,0,2
+62,CARRETERA DE CARMONA,Arbolado Viario,LA CORZA,San Pablo-Santa Justa,2,0,0,0,2,0,0,2
+63,Cementerio San Fernando,Edificios Municipales,LA BACHILLERA,Norte,6,2,0,2,6,0,0,8
+64,Centro Educativo San Fernando,Edificios Municipales,AMATE,Cerro-Amate,2,0,0,0,2,0,0,2
+65,"Ciencias (Las), Avenida",Medianas y Glorietas,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,64,31,4,28,58,5,5,90
+66,"Ciudad de Alberique, Calle",Arbolado Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,4,0,0,0,4,0,0,4
+67,"CIUDAD DE ALDAYA, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,24,2,0,16,10,0,0,26
+68,"Ciudad de Chiva, Avenida",Arbolado Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,15,1,0,1,15,0,0,16
+69,"CIUDAD DE LA IMAGEN, PARQUE.",,LA BACHILLERA,Norte,0,2,0,0,2,0,0,2
+70,"CIUDAD DE LA IMAGEN, PARQUE.",Parque Urbano,LA BACHILLERA,Norte,2,22,1,0,23,0,0,24
+71,"Ciudad de Manises, Calle",Arbolado Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,4,0,0,0,4,0,0,4
+72,CIUDAD DE MONTILLA,Sin Recepcionar,SAN CARLOS-TARTESSOS,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+73,"Ciudad de Paterna, Calle",Arbolado Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,4,0,0,2,2,0,0,4
+74,CL AMERICO VESPUCIO,Arbolado Viario,TRIANA OESTE,Triana,15,1,1,6,9,0,0,16
+75,CL BEGONIA,,PIO XII,Macarena,0,2,0,0,2,0,0,2
+76,CL BEGONIA,Plaza o Jardín,PIO XII,Macarena,2,0,0,1,1,0,0,2
+77,CL GONZALO JIMENEZ DE QUESADA,Medianas y Glorietas,TRIANA OESTE,Triana,11,0,0,11,0,0,0,11
+78,CL GUSTAVO BACARISAS,Arbolado Viario,TRIANA CASCO ANTIGUO,Triana,2,0,0,0,2,0,0,2
+79,CL IGNACIO GOMEZ MILLAN,Plaza o Jardín,TRIANA OESTE,Triana,6,0,0,0,6,0,0,6
+80,CL INCA GARCILASO,Medianas y Glorietas,TRIANA OESTE,Triana,2,22,13,0,9,2,1,23
+81,CL MUÑOZ LEON,Arbolado Viario,SAN GIL,Casco Antiguo,0,2,0,1,1,0,1,1
+82,CL OCIO,Arbolado Viario,TRIANA OESTE,Triana,0,5,0,5,0,0,0,5
+83,CL PERIODISTA NICOLAS SALAS,,TRIANA CASCO ANTIGUO,Triana,1,0,0,0,1,0,0,1
+84,CL PLAZA NUEVA,Plaza o Jardín,ALFALFA,Casco Antiguo,12,0,0,12,0,0,0,12
+85,CL PLAZA NUEVA,Plaza o Jardín,ARENAL,Casco Antiguo,73,66,0,63,10,66,0,139
+86,CL RONDA DE CIRCUNVALACIóN SE-30,Sin Recepcionar,TRIANA OESTE,Triana,11,0,0,4,7,0,0,11
+87,"Cojinete, Calle",Arbolado Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,6,1,0,0,1,6,0,7
+88,"CONCEJAL ALONSO BALOSA GARCIA, ROTONDA",Medianas y Glorietas,BELLAVISTA,Bellavista-La Palmera,15,0,0,0,0,15,0,15
+89,Conde de Halcon,Arbolado Viario,PIO XII,Macarena,1,0,0,0,1,0,0,1
+90,CORTIJO DE LAS CASILLAS,Arbolado Viario,CONSOLACION,Norte,0,2,0,0,2,0,0,2
+91,"CRISANTEMO,CL",Arbolado Viario,PIO XII,Macarena,3,0,0,1,2,0,0,3
+92,"CRISTO DE BURGOS, JARDINES PLAZA",Plaza o Jardín,ALFALFA,Casco Antiguo,33,0,0,0,17,16,0,33
+93,"CRISTO DE BURGOS, PLAZA",Plaza o Jardín,ALFALFA,Casco Antiguo,8,0,0,0,8,0,0,8
+94,CRISTO DE VELAZQUEZ,Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+95,"CROSS SAN JERONIMO, PARQUE",Parque Urbano,LA BACHILLERA,Norte,2,4,2,3,0,1,1,5
+96,"CRUCERO BALEARES, JARDÍN PLAZA",Plaza o Jardín,TRIANA OESTE,Triana,3,0,0,0,3,0,0,3
+97,"Cueva de la Pileta, Calle",Arbolado Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,1,1,0,0,2,0,0,2
+98,"Cueva de Menga, calle",Sin Recepcionar,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,9,0,0,9,0,0,0,9
+99,"Cueva del Agua, calle",Sin Recepcionar,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,20,0,0,20,0,0,0,20
+100,"Cueva del Gato, Calle",Arbolado Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,1,0,0,1,0,0,0,1
+101,"DE GOMILA, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,88,3,2,6,73,10,3,88
+102,"DE LA CONCORDIA, JARDINES PLAZA",Plaza o Jardín,ENCARNACION-REGINA,Casco Antiguo,17,4,0,0,21,0,0,21
+103,"DE LA DÁRSENA, JARDINES",Plaza o Jardín,TRIANA OESTE,Triana,13,0,0,1,12,0,0,13
+104,"DE LA ENCARNACIóN, JARDINES PLAZA",,ALFALFA,Casco Antiguo,15,0,0,0,15,0,0,15
+105,"DE LA ENCARNACIóN, JARDINES PLAZA",Plaza o Jardín,ALFALFA,Casco Antiguo,14,8,3,7,11,1,8,14
+106,"DE LA ENCARNACIóN, JARDINES PLAZA",Plaza o Jardín,ENCARNACION-REGINA,Casco Antiguo,3,0,0,2,1,0,0,3
+107,"DE LAS MONJAS, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,80,6,3,21,58,4,3,83
+108,"DE LAS TENDILLAS, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,75,1,0,4,71,1,0,76
+109,"DE ORIENTE, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,98,1,0,1,98,0,0,99
+110,"DE ZOCODOVER, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,94,3,3,4,89,1,0,97
+111,"DEL COLLAO, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,62,12,1,19,51,3,2,72
+112,"DEL DUQUE, JARDINES PLAZA",Plaza o Jardín,ENCARNACION-REGINA,Casco Antiguo,8,0,0,4,4,0,0,8
+113,"DEL MUSEO, JARDINES PLAZA",Plaza o Jardín,MUSEO,Casco Antiguo,16,0,0,16,0,0,0,16
+114,"DEL OBRADOIRO, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,67,15,1,1,79,1,1,81
+115,"DEL REY AURELIO, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,142,1,0,1,142,0,0,143
+116,"DEL TURRUÑUELO, PARQUE",Parque Urbano,TRIANA OESTE,Triana,32,0,0,9,23,0,0,32
+117,"DEL VALLE, JARDINES",Parque Urbano,SANTA CATALINA,Casco Antiguo,81,39,2,36,82,0,3,117
+118,"DEL ZURRAQUE, JARDINES PLAZA",Plaza o Jardín,TRIANA OESTE,Triana,15,0,0,0,9,6,0,15
+119,"Delicias, Paseo",,SANTA CRUZ,Casco Antiguo,4,1,0,0,4,1,0,5
+120,"Delicias, Paseo",Arbolado Viario,SANTA CRUZ,Casco Antiguo,37,55,0,0,34,58,0,92
+121,"Demófilo, Calle",Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,1,0,0,0,1,0,0,1
+122,"Deporte, El (Avenida)",Medianas y Glorietas,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,26,18,1,25,13,5,7,37
+123,"Deporte, El (Avenida)",Medianas y Glorietas,TORREBLANCA,Este-Alcosa-Torreblanca,15,9,6,17,1,0,7,17
+124,DESTORNILLADOR,,AEROPUERTO VIEJO,Norte,1,0,0,1,0,0,0,1
+125,DIEGO DE RIAÑO,Arbolado Viario,EL PRADO-PARQUE MARIA LUISA,Sur,1,0,0,0,1,0,0,1
+126,DIEGO GALVEZ,,AMATE,Cerro-Amate,1,0,0,0,1,0,0,1
+127,"DIPUTADO RAMóN RUEDA, JARDINES PLAZA.",,BARRIADA PINO MONTANO,Norte,14,1,0,1,14,0,0,15
+128,"DIPUTADO RAMóN RUEDA, JARDINES PLAZA.",Plaza o Jardín,BARRIADA PINO MONTANO,Norte,20,4,0,2,22,0,0,24
+129,DOCTOR ANTONIO CORTÉS LLADó,Arbolado Viario,HUERTA DE LA SALUD,Sur,30,1,0,9,19,3,0,31
+130,DOCTOR GABRIEL SANCHEZ DE LA CUESTA,Arbolado Viario,HUERTA DE LA SALUD,Sur,7,2,0,0,8,1,0,9
+131,DOCTOR JOSÉ Ma BEDOYA,,HUERTA DE LA SALUD,Sur,2,0,0,0,0,2,0,2
+132,DOCTOR JOSÉ Ma BEDOYA,Plaza o Jardín,HUERTA DE LA SALUD,Sur,60,6,0,26,38,2,3,63
+133,"Doctor Miguel Ríos Sarmiento, Calle",Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,6,4,0,7,3,0,1,9
+134,DON JUAN,Arbolado Viario,SANTA CLARA,San Pablo-Santa Justa,16,10,0,2,22,2,0,26
+135,DOÑA FRANCISQUITA (BIOSALUDABLES),,JUAN XXIII,Cerro-Amate,10,0,0,10,0,0,0,10
+136,DONANTES DE ORGANOS,Arbolado Viario,SAN PABLO D Y E,San Pablo-Santa Justa,0,2,0,0,2,0,0,2
+137,EDUARDO DATO,,SAN BERNARDO,Nervión,4,0,0,0,4,0,0,4
+138,EDUARDO DATO,Arbolado Viario,LA FLORIDA,Nervión,6,0,0,0,2,4,0,6
+139,EDUARDO DATO,Arbolado Viario,SAN BERNARDO,Nervión,10,0,0,0,6,4,0,10
+140,EDUARDO GARCIA MAROTO,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,0,3,0,0,3,0,0,3
+141,EFESO,Arbolado Viario,LAS HUERTAS,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+142,EFESO,Arbolado Viario,SAN PABLO A Y B,San Pablo-Santa Justa,2,4,1,0,5,0,0,6
+143,EL CHICLANERO,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+144,El Populo,Sin Recepcionar,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,3,3,0,0,6,0,0,6
+145,"Elda, calle",Arbolado Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,0,1,0,0,1,0,0,1
+146,ELISA RUIZ ROMERO,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,0,8,0,0,8,0,0,8
+147,"Emilio Lemos, Avda.",Medianas y Glorietas,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,26,32,0,15,42,1,1,57
+148,"EMILIO LEMOS, PARQUE",Parque Urbano,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,25,0,0,9,16,0,0,25
+149,"ENCINA DEL REY, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,69,10,7,4,66,2,1,78
+150,Esperanza Velez Lamadrid Gta.,Medianas y Glorietas,POLIGONO SUR,Sur,3,0,0,2,1,0,0,3
+151,ESPINOSA Y CARCEL,Arbolado Viario,NERVION,Nervión,0,1,0,0,1,0,0,1
+152,"Eufrates, Calle",Arbolado Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,12,18,0,7,22,1,1,29
+153,FABRILO,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+154,"FACTORES 1 ( PARQUE APRENDICES DE RENFE), JARDINES CALLE",Parque Urbano,SAN JERONIMO,Norte,12,0,0,0,12,0,0,12
+155,FERNANDO VI,Plaza o Jardín,BELLAVISTA,Bellavista-La Palmera,2,1,0,3,0,0,1,2
+156,FERNANDO VILLALON,Arbolado Viario,HUERTA DE LA SALUD,Sur,1,0,0,0,0,1,0,1
+157,FERNANDO ZOBEL,,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,2,5,0,2,5,0,0,7
+158,FERNANDO ZOBEL,Jardinería Asociada a Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,18,9,0,11,16,0,0,27
+159,FIDELIO,Arbolado Viario,SANTA CLARA,San Pablo-Santa Justa,13,2,0,9,6,0,1,14
+160,FINCA VALLADA_LOTE1,Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,6,0,0,0,6,0,0,6
+161,"Flor de Azalea, Calle",Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,4,3,0,1,6,0,0,7
+162,Flor de Gitanilla,Jardinería Asociada a Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,1,0,0,1,0,0,0,1
+163,"Flor de Salvia, Calle",Jardinería Asociada a Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,9,1,0,5,5,0,0,10
+164,FLOTA DE INDIAS,Arbolado Viario,LOS REMEDIOS,Los Remedios,1,0,0,0,1,0,0,1
+165,FLOTA DE INDIAS,Arbolado Viario,TABLADA,Los Remedios,1,0,0,0,1,0,0,1
+166,FRAGUA DE VULCANO,Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,0,2,0,0,2,0,0,2
+167,FRANCISCO ELIAS RIQUELME,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,5,0,0,0,5,0,0,5
+168,FRAY MARCOS DE NIZA,Arbolado Viario,SANTA CLARA,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+169,GALLEGA A LA VENTANA,Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,3,0,0,2,1,0,0,3
+170,"Garlopa, Calle",Arbolado Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,0,6,0,0,6,0,0,6
+171,"Gema, Calle",Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,16,1,0,5,12,0,0,17
+172,GIBRALTAR,,AMATE,Cerro-Amate,4,0,0,0,4,0,0,4
+173,Glorieta de Goya,,EL PRADO-PARQUE MARIA LUISA,Sur,1,0,0,0,1,0,0,1
+174,Glorieta de Goya,Arbolado Viario,EL PRADO-PARQUE MARIA LUISA,Sur,4,1,0,3,2,0,1,4
+175,GLORIETA DOCTOR JUAN BERMUDO DE LA ROSA,Medianas y Glorietas,POLIGONO SUR,Sur,7,0,0,0,7,0,0,7
+176,Glorieta e Isletas de Molini,,SECTOR SUR-LA PALMERA-REINA MERCEDES,Bellavista-La Palmera,1,0,0,0,1,0,0,1
+177,GLORIETA FERNADO ZOBEL-LUIS FUENTES BEJARANO,,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,4,0,0,2,2,0,0,4
+178,GLORIETA INGENIEROS INDUSTRIALES,Medianas y Glorietas,GIRALDA SUR,Sur,19,0,0,1,18,0,0,19
+179,GLORIETA LAS CIGARRERAS,,LOS REMEDIOS,Los Remedios,6,0,0,0,6,0,0,6
+180,GLORIETA LAS CIGARRERAS,Medianas y Glorietas,LOS REMEDIOS,Los Remedios,2,4,0,5,1,0,0,6
+181,GLORIETA LETONIA,Medianas y Glorietas,BELLAVISTA,Bellavista-La Palmera,0,5,1,4,0,0,5,0
+182,GLORIETA REPUBLICA DOMINICANA,Medianas y Glorietas,EL TARDON-EL CARMEN,Triana,4,0,0,4,0,0,4,0
+183,GLORIETA REPUBLICA DOMINICANA,Medianas y Glorietas,LOS REMEDIOS,Los Remedios,5,0,0,0,5,0,0,5
+184,GLORIETA REPUBLICA DOMINICANA,Medianas y Glorietas,TRIANA ESTE,Triana,1,0,0,1,0,0,1,0
+185,Glorieta Vía Flavia cv Columbretes,,TORREBLANCA,Este-Alcosa-Torreblanca,7,3,0,6,4,0,9,1
+186,GRAN PLAZA GLORIETA 1,Medianas y Glorietas,NERVION,Nervión,10,0,0,0,10,0,0,10
+187,GRAN PLAZA GLORIETA 2,Medianas y Glorietas,CIUDAD JARDIN,Nervión,4,0,0,0,4,0,0,4
+188,GRAN PLAZA GLORIETA 2,Medianas y Glorietas,NERVION,Nervión,5,0,0,0,5,0,0,5
+189,"GRAN VÍA ( ANTIGUO COCA COLA),PARQUE",Parque Urbano,SANTA CLARA,San Pablo-Santa Justa,0,7,7,0,0,0,6,1
+190,GRUPO SANTA JUSTA Y RUFINA,Sin Recepcionar,PARQUE MIRAFLORES,Macarena,2,0,0,0,2,0,0,2
+191,GRUPO SANTA JUSTA Y RUFINA,Sin Recepcionar,VILLEGAS,Macarena,3,0,0,0,3,0,0,3
+192,GUADALIMAR,Arbolado Viario,PEDRO SALVADOR-LAS PALMERITAS- GUADAIRA,Bellavista-La Palmera,4,1,0,0,5,0,0,5
+193,"Hermenegildo Casas Jiménez, Calle",Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,5,1,0,2,4,0,0,6
+194,"HESPERIDES, JARDINES",Plaza o Jardín,LAS HUERTAS,San Pablo-Santa Justa,6,0,0,0,6,0,0,6
+195,HILANDERAS (LAS),Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+196,"Indonesia, Calle",Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,0,1,0,0,1,0,0,1
+197,INMACULADO CORAZON DE MARIA,Plaza o Jardín,HELIOPOLIS,Bellavista-La Palmera,7,0,0,0,7,0,0,7
+198,ISLETA CALLE BOGOTA,Plaza o Jardín,EL PORVENIR,Sur,1,0,0,0,0,1,0,1
+199,ISLETA CALLE BOGOTA,Plaza o Jardín,TABLADILLA-LA ESTRELLA,Sur,1,0,0,0,1,0,0,1
+200,ISLETA CALLE BOGOTA,Plaza o Jardín,TIRO DE LINEA-SANTA GENOVEVA,Sur,1,0,0,0,1,0,0,1
+201,JARDIN AMERICANO,Parque Periurbano,TRIANA OESTE,Triana,239,1,1,52,175,12,0,240
+202,JARDIN C/ TERMANCIA,Plaza o Jardín,TRIANA OESTE,Triana,3,2,0,4,1,0,2,3
+203,Jardín de las Delicias,Parque o Jardín Histórico,EL PRADO-PARQUE MARIA LUISA,Sur,235,22,6,56,171,24,13,244
+204,JARDINES DE CHAPINA,Plaza o Jardín,MUSEO,Casco Antiguo,7,0,0,0,6,1,0,7
+205,JARDINES DE CISTER,Arbolado Viario,BELLAVISTA,Bellavista-La Palmera,1,0,0,0,1,0,0,1
+206,Jardines de Cristina,,SANTA CRUZ,Casco Antiguo,2,2,0,0,2,2,0,4
+207,Jardines de Cristina,Plaza o Jardín,SANTA CRUZ,Casco Antiguo,47,7,0,9,22,23,0,54
+208,JARDINES DE LA ALHAMBRA,Arbolado Viario,BELLAVISTA,Bellavista-La Palmera,1,0,0,0,1,0,0,1
+209,Jardines de La Caridad,,ARENAL,Casco Antiguo,9,0,0,0,7,2,0,9
+210,Jardines de La Caridad,Parque o Jardín Histórico,ARENAL,Casco Antiguo,67,4,0,32,27,12,4,67
+211,Jardines de la Lonja,Parque o Jardín Histórico,SANTA CRUZ,Casco Antiguo,34,1,0,17,18,0,1,34
+212,Jardines de la Madrina,Parque o Jardín Histórico,SANTA CRUZ,Casco Antiguo,50,4,0,8,31,15,1,53
+213,Jardines de Murillo,,SANTA CRUZ,Casco Antiguo,9,0,0,4,4,1,0,9
+214,Jardines de Murillo,Parque o Jardín Histórico,SANTA CRUZ,Casco Antiguo,444,150,6,308,210,70,48,546
+215,JARDINES DEL GUADALQUIVIR,Parque Periurbano,TRIANA OESTE,Triana,173,33,12,79,102,13,57,149
+216,Jardines Glorieta Goya,Parque o Jardín Histórico,EL PRADO-PARQUE MARIA LUISA,Sur,31,10,2,10,26,3,9,32
+217,JARDINES PLAZA ENTREPARQUES,Plaza o Jardín,BARRIADA PINO MONTANO,Norte,55,0,0,0,55,0,0,55
+218,Jardines Plaza San Nicola¡s,,SAN MARIA DE ORDAS-SAN NICOLAS,Macarena,36,0,0,16,20,0,1,35
+219,JEREZ,Arbolado Viario,BELLAVISTA,Bellavista-La Palmera,13,0,0,3,0,10,0,13
+220,JEREZ,Arbolado Viario,EL CANO-BERMEJALES,Bellavista-La Palmera,0,6,0,6,0,0,6,0
+221,Joaquín Romero Murube - Alianza,Plaza o Jardín,SANTA CRUZ,Casco Antiguo,21,0,0,21,0,0,0,21
+222,JOSE HERNANDEZ GAN,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+223,"José Jesús García Díaz, Calle",Arbolado Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,1,16,1,0,16,0,0,17
+224,"JOSÉ LUIS VILA, JARDINES PLAZA",Plaza o Jardín,FERIA,Casco Antiguo,53,10,3,8,51,1,0,63
+225,"JOSE MARIA DE LOS SANTOS,PARQUE",Parque Urbano,CONSOLACION,Norte,17,6,0,15,3,5,1,22
+226,JOSE VAL DEL OMAR,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,2,0,0,0,2,0,0,2
+227,"JOSEFA REINA PUERTO, JARDINES PLAZA",Plaza o Jardín,ALFALFA,Casco Antiguo,20,0,0,20,0,0,0,20
+228,JUAN CARVALLO,Arbolado Viario,ROCHELAMBERT,Cerro-Amate,1,1,1,1,0,0,0,2
+229,JUAN DE LA COSA,Arbolado Viario,TIRO DE LINEA-SANTA GENOVEVA,Sur,0,1,0,0,1,0,0,1
+230,JUAN DE ZALDIVAR,Plaza o Jardín,SANTA CLARA,San Pablo-Santa Justa,0,7,0,0,7,0,0,7
+231,"JUAN GARCÍA REYES, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,4,6,0,0,10,0,0,10
+232,JUAN SEBASTIAN ELCANO,Arbolado Viario,LOS REMEDIOS,Los Remedios,6,0,0,0,6,0,0,6
+233,KANSAS CITY,Arbolado Viario,LAS HUERTAS,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+234,KANSAS CITY,Arbolado Viario,SAN PABLO A Y B,San Pablo-Santa Justa,6,11,0,4,13,0,0,17
+235,LEONARDO DE FIGUEROA,Arbolado Viario,NERVION,Nervión,1,0,0,1,0,0,0,1
+236,LICENCIADO CALDERA,Arbolado Viario,LA CORZA,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+237,LITRI,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+238,"LOS LUCEROS, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,60,2,2,4,56,0,0,62
+239,"LOS MERINALES, ROTONDA",,BELLAVISTA,Bellavista-La Palmera,11,0,0,0,11,0,0,11
+240,"Luis Fuentes Bejarano, Calle",Arbolado Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,2,7,0,3,6,0,0,9
+241,MAESTRO PEDRO BRAÑA,Arbolado Viario,NERVION,Nervión,2,0,0,2,0,0,0,2
+242,MANUEL LUNA,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,0,4,0,0,4,0,0,4
+243,"MANZANA 54, JARDINES",,EL TARDON-EL CARMEN,Triana,148,0,0,134,14,0,0,148
+244,"MANZANA 54, JARDINES",Plaza o Jardín,EL TARDON-EL CARMEN,Triana,3,0,0,0,3,0,0,3
+245,"MARÍA PITA, JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,1,6,0,6,1,0,0,7
+246,MARIANO MOTA,Plaza o Jardín,AMATE,Cerro-Amate,6,3,0,5,4,0,0,9
+247,"Marineros Voluntarios, Glorieta",,EL PRADO-PARQUE MARIA LUISA,Sur,1,0,0,0,1,0,0,1
+248,"Marineros Voluntarios, Glorieta",,SANTA CRUZ,Casco Antiguo,1,0,0,0,1,0,0,1
+249,"Martillo, Calle",Arbolado Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,0,3,0,0,3,0,0,3
+250,MARTINETE (EL),Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+251,"MAYOR,JARDINES PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,4,0,0,0,4,0,0,4
+252,"Medicos sin Fronteras, calle",Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,1,4,0,0,5,0,0,5
+253,"MÉDICOS SIN FRONTERAS, JARDINES",Parque Urbano,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,3,7,0,10,0,0,0,10
+254,MENIPPO,Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,0,2,0,0,2,0,0,2
+255,METALURGIA,Medianas y Glorietas,AEROPUERTO VIEJO,Norte,3,0,0,2,1,0,0,3
+256,Montesierra,Jardinería Asociada a Viario,SANTA CLARA,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+257,Muelle Camaronero,Plaza o Jardín,TRIANA CASCO ANTIGUO,Triana,1,19,7,5,8,0,7,13
+258,Muelle de Nueva York,Plaza o Jardín,SANTA CRUZ,Casco Antiguo,8,0,0,0,8,0,0,8
+259,Muro de Defensa,,BARRIO LEON,Triana,0,6,0,6,0,0,0,6
+260,Muro de Defensa,,EL TARDON-EL CARMEN,Triana,0,2,0,0,2,0,0,2
+261,Muro de Defensa,,TRIANA OESTE,Triana,6,0,0,0,6,0,0,6
+262,NIÑO DE VALLECAS (EL),Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,0,3,0,0,3,0,0,3
+263,"NORTE (junto asentamiento del Vacie), PARQUE",Parque Urbano,LOS PRINCIPES-LA FONTANILLA,Macarena,22,529,3,17,125,406,181,370
+264,"NORTE PINO MONTANO, PARQUE",Parque Urbano,BARRIADA PINO MONTANO,Norte,28,49,17,35,24,1,46,31
+265,"Nuestra Señora de los Desamparados, Calle",Arbolado Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,1,0,0,0,1,0,0,1
+266,Nuevo Cauce del Guadaira-Palmas Altas,Parque Periurbano,BELLAVISTA,Bellavista-La Palmera,0,19,0,19,0,0,0,19
+267,"ONGs, Avda.",Arbolado Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,0,4,0,0,4,0,0,4
+268,OPERA CARMEN,Arbolado Viario,SANTA CLARA,San Pablo-Santa Justa,25,4,3,11,9,6,7,22
+269,"PADRE CASTRO, PLAZA",Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,11,8,0,3,16,0,2,17
+270,"PALMERA (LA),AV",Arbolado Viario,SECTOR SUR-LA PALMERA-REINA MERCEDES,Bellavista-La Palmera,34,0,0,0,34,0,0,34
+271,PARKING VEGA DE TRIANA,,TRIANA OESTE,Triana,42,17,6,21,0,32,3,56
+272,PARQUE ANTIOQUIA.,Parque Urbano,SAN PABLO D Y E,San Pablo-Santa Justa,1,1,0,1,1,0,0,2
+273,PARQUE BORDAS CHINCHURRETA,Parque Urbano,EL FONTANAL- MARIA AUXILIADORA- CARRETERA DE CARMONA,San Pablo-Santa Justa,2,19,0,0,2,19,19,2
+274,Parque de Amate,,SANTA AURELIA-CANTABRICO-ATLANTICO- LA ROMERIA,Cerro-Amate,6,0,0,0,6,0,0,6
+275,Parque de Amate,Parque Urbano,SANTA AURELIA-CANTABRICO-ATLANTICO- LA ROMERIA,Cerro-Amate,77,46,6,47,61,9,18,105
+276,Parque de los Bermejales,Parque Periurbano,BELLAVISTA,Bellavista-La Palmera,81,1066,67,6,107,967,759,388
+277,Parque de los Príncipes,,LOS REMEDIOS,Los Remedios,1,0,0,0,1,0,0,1
+278,Parque de los Príncipes,Parque Urbano,LOS REMEDIOS,Los Remedios,162,45,0,94,112,1,0,207
+279,Parque de María Luisa,,EL PRADO-PARQUE MARIA LUISA,Sur,2,0,0,0,2,0,0,2
+280,Parque de María Luisa,Parque o Jardín Histórico,EL PRADO-PARQUE MARIA LUISA,Sur,386,103,19,146,302,22,70,419
+281,Parque del Tamarguillo,Parque Periurbano,COLORES- ENTREPARQUES,Este-Alcosa- Torreblanca,1407,2402,5,197,1290,2317,779,3030
+282,Parque del Tamarguillo,Parque Periurbano,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,118,293,12,86,119,194,183,228
+283,Parque Guadaira I,Parque Periurbano,POLIGONO SUR,Sur,10,42,1,33,10,8,2,50
+284,Parque Guadaira II,Parque Periurbano,BELLAVISTA,Bellavista-La Palmera,0,10,5,5,0,0,5,5
+285,Parque Guadaira II,Parque Periurbano,EL CANO-BERMEJALES,Bellavista-La Palmera,0,9,9,0,0,0,9,0
+286,Parque Guadaira II,Parque Periurbano,POLIGONO SUR,Sur,38,286,30,107,112,75,157,167
+287,Parque Infanta Elena,,PALACIO DE CONGRESOS- URBADIEZ- ENTREPUENTES,Este-Alcosa- Torreblanca,0,1,0,0,0,1,1,0
+288,Parque Infanta Elena,Parque Periurbano,COLORES- ENTREPARQUES,Este-Alcosa- Torreblanca,84,70,1,12,3,138,63,91
+289,Parque Infanta Elena,Parque Periurbano,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,13,14,5,14,2,6,10,17
+290,Parque Infanta Elena,Parque Periurbano,PALACIO DE CONGRESOS- URBADIEZ- ENTREPUENTES,Este-Alcosa- Torreblanca,896,1374,3,77,275,1915,939,1331
+291,Parque Infanta Elena,Parque Periurbano,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,124,454,141,169,174,94,213,365
+292,PARQUE LA MEDIA LUNITA,,EL PLANTINAR,Sur,10,0,0,2,8,0,0,10
+293,Parque Miraflores I,Parque Urbano,AEROPUERTO VIEJO,Norte,23,10,5,9,19,0,7,26
+294,Parque Miraflores I,Parque Urbano,EL GORDILLO,Norte,85,26,14,27,59,11,6,105
+295,Parque Miraflores I,Parque Urbano,LAS ALMENAS,Norte,15,13,0,3,25,0,13,15
+296,Parque Miraflores I,Parque Urbano,SAN DIEGO,Norte,0,2,2,0,0,0,0,2
+297,Parque Miraflores II,Parque Urbano,EL GORDILLO,Norte,7,4,0,1,7,3,0,11
+298,Parque Plaza del Olivo,,LOS PRINCIPES-LA FONTANILLA,Macarena,23,0,0,23,0,0,0,23
+299,Parque San Jerónimo I y II,Parque Periurbano,,Triana,56,37,0,0,56,37,12,81
+300,Parque San Jerónimo I y II,Parque Periurbano,LA BACHILLERA,Norte,1127,497,13,152,839,620,105,1519
+301,Parque San Jerónimo I y II,Parque Periurbano,SAN JERONIMO,Norte,481,325,0,372,131,303,76,730
+302,Parque Vega de Triana,Parque Periurbano,TRIANA OESTE,Triana,118,58,0,2,93,81,56,120
+303,"PARQUES DE ANDALUCÍA, JARDINES PLAZA",Plaza o Jardín,BARRIADA PINO MONTANO,Norte,75,0,0,2,73,0,0,75
+304,PASAJE NUESTRA SEÑORA DE LA CONSOLACIóN,Sin Recepcionar,CONSOLACION,Norte,0,1,0,0,1,0,0,1
+305,Pasarela,Medianas y Glorietas,EL PRADO-PARQUE MARIA LUISA,Sur,44,0,0,0,44,0,0,44
+306,Pasarela,Medianas y Glorietas,SAN BERNARDO,Nervión,24,0,0,1,23,0,0,24
+307,Pasarela,Medianas y Glorietas,SANTA CRUZ,Casco Antiguo,10,0,0,0,10,0,0,10
+308,Paseo de Colón,Arbolado Viario,ARENAL,Casco Antiguo,89,12,5,76,16,4,0,101
+309,Paseo de Colón,Arbolado Viario,SANTA CRUZ,Casco Antiguo,1,0,0,0,0,1,0,1
+310,Paseo de Colón,Jardinería Asociada a Viario,ARENAL,Casco Antiguo,9,2,0,5,6,0,0,11
+311,Paseo de Colón,Jardinería Asociada a Viario,SANTA CRUZ,Casco Antiguo,1,0,0,0,1,0,0,1
+312,PASEO DE EUROPA,Arbolado Viario,EL CANO-BERMEJALES,Bellavista-La Palmera,1,0,0,0,1,0,0,1
+313,Paseo Juan Carlos I (Casco Antiguo),,SAN LORENZO,Casco Antiguo,1,5,0,0,3,3,2,4
+314,Paseo Juan Carlos I (Casco Antiguo),Plaza o Jardín,SAN LORENZO,Casco Antiguo,137,123,0,27,104,129,29,231
+315,Paseo Juan Carlos I (Casco Antiguo),Plaza o Jardín,SAN VICENTE,Casco Antiguo,34,49,0,12,32,39,0,83
+316,Paseo Juan Carlos I (Macarena),Plaza o Jardín,DOCTOR BARRAQUER- GRUPO RENFE- POLICLINICO,Macarena,54,102,0,24,0,132,17,139
+317,Paseo Juan Carlos I (Macarena),Plaza o Jardín,DOCTOR BARRAQUER-GRUPO RENFE- POLICLINICO,Macarena,0,51,0,0,51,0,0,51
+318,Paseo Juan Carlos I (Macarena),Plaza o Jardín,LA PAZ-LAS GOLONDRINAS,Macarena,10,32,0,7,11,24,15,27
+319,Paseo Juan Carlos I (Macarena),Plaza o Jardín,MACARENA TRES HUERTAS- MACARENA CINCO,Macarena,22,52,0,10,0,64,23,51
+320,Paseo Juan Carlos I (Macarena),Plaza o Jardín,MACARENA TRES HUERTAS-MACARENA CINCO,Macarena,0,18,0,2,16,0,0,18
+321,PASEO LAS DELICIAS,Medianas y Glorietas,EL PRADO-PARQUE MARIA LUISA,Sur,2,0,0,0,2,0,0,2
+322,PASEO NUESTRA SEÑORA DE LA O,Plaza o Jardín,TRIANA CASCO ANTIGUO,Triana,0,55,0,0,55,0,0,55
+323,Patio Banderas,Arbolado Viario,SANTA CRUZ,Casco Antiguo,36,0,0,36,0,0,0,36
+324,"PEDRO SANTOS GóMEZ, JARDINES PLAZA",Plaza o Jardín,TRIANA OESTE,Triana,27,0,0,3,24,0,0,27
+325,PEPE HILLO,Plaza o Jardín,SAN PABLO D Y E,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+326,PERIODISTA EMILIO SEGURA,Arbolado Viario,SAN BERNARDO,Nervión,1,0,0,1,0,0,0,1
+327,PIANISTA JOSÉ ROMERO. PARQUE,,EL FONTANAL-MARIA AUXILIADORA- CARRETERA DE CARMONA,San Pablo-Santa Justa,0,56,0,0,56,0,0,56
+328,PIANISTA JOSÉ ROMERO. PARQUE,Plaza o Jardín,EL FONTANAL- MARIA AUXILIADORA- CARRETERA DE CARMONA,San Pablo-Santa Justa,48,0,0,36,12,0,0,48
+329,Pineda Parque,Arbolado Viario,PEDRO SALVADOR-LAS PALMERITAS- GUADAIRA,Bellavista-La Palmera,39,125,0,38,59,67,101,63
+330,PINO DE SANTA CLARA (EL),Arbolado Viario,SANTA CLARA,San Pablo-Santa Justa,0,1,0,1,0,0,1,0
+331,PINO SIBERIA,Arbolado Viario,PALMETE,Cerro-Amate,1,0,0,0,1,0,0,1
+332,PINTARROJA,,SAN JERONIMO,Norte,2,0,0,0,2,0,0,2
+333,"PIO XII, PZ",,PIO XII,Macarena,0,4,0,0,4,0,0,4
+334,"PIO XII, PZ",Arbolado Viario,PIO XII,Macarena,2,0,0,1,1,0,0,2
+335,"PIO XII, PZ",Plaza o Jardín,PIO XII,Macarena,25,0,0,6,19,0,0,25
+336,PIROTECNIA,Parque Urbano,GIRALDA SUR,Sur,2,0,0,1,1,0,0,2
+337,PLAZA ALCALDE HORACIO HERMOSO,Plaza o Jardín,TIRO DE LINEA-SANTA GENOVEVA,Sur,1,0,0,0,1,0,0,1
+338,Plaza Alfaro,Arbolado Viario,SANTA CRUZ,Casco Antiguo,3,0,0,3,0,0,0,3
+339,Plaza Alianza,Plaza o Jardín,SANTA CRUZ,Casco Antiguo,10,0,0,10,0,0,0,10
+340,PLAZA AVIADOR RUIZ DE ALDA,Plaza o Jardín,HUERTA DE LA SALUD,Sur,6,2,0,1,7,0,0,8
+341,Plaza de Doña Elvira,Plaza o Jardín,SANTA CRUZ,Casco Antiguo,13,0,0,13,0,0,0,13
+342,PLAZA DE LA TONÁ,Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,1,0,0,1,0,0,0,1
+343,Plaza de los Refinadores (Medios Propios),Plaza o Jardín,SANTA CRUZ,Casco Antiguo,21,0,0,14,7,0,0,21
+344,Plaza de los Venerables,Plaza o Jardín,SANTA CRUZ,Casco Antiguo,2,0,0,2,0,0,0,2
+345,Plaza de Refinadores,Plaza o Jardín,SANTA CRUZ,Casco Antiguo,7,0,0,7,0,0,0,7
+346,Plaza de Santa Cruz (Medios Propios),Plaza o Jardín,SANTA CRUZ,Casco Antiguo,30,0,0,4,26,0,0,30
+347,Plaza del Triunfo,,SANTA CRUZ,Casco Antiguo,3,0,0,1,2,0,0,3
+348,Plaza del Triunfo,Arbolado Viario,SANTA CRUZ,Casco Antiguo,20,0,0,20,0,0,0,20
+349,Plaza del triunfo (Medios Propios),Plaza o Jardín,SANTA CRUZ,Casco Antiguo,5,10,0,5,0,10,0,15
+350,PLAZA FCO. GRANADOS SALVADOR,,AMATE,Cerro-Amate,0,14,0,0,14,0,0,14
+351,PLAZA LAS MENINAS,Arbolado Viario,SAN PABLO A Y B,San Pablo-Santa Justa,0,1,0,0,1,0,0,1
+352,Plaza Letrados de Sevilla,Jardinería Asociada a Viario,TABLADA,Los Remedios,5,0,0,0,0,5,0,5
+353,Plaza Santa Cruz,Plaza o Jardín,SANTA CRUZ,Casco Antiguo,15,0,0,15,0,0,0,15
+354,PLAZA ZODIACO,Plaza o Jardín,LOS PAJAROS,Cerro-Amate,8,0,0,0,8,0,0,8
+355,PMI Triana-Los Remedios - Monte Pirolo - Consumo,Edificios Municipales,TRIANA OESTE,Triana,2,0,0,0,2,0,0,2
+356,Praderas de Malaga,,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,3,0,0,3,0,0,0,3
+357,Praderas de Malaga,Jardinería Asociada a Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,0,5,0,0,5,0,0,5
+358,Praderas de Malaga,Jardinería Asociada a Viario,PALACIO DE CONGRESOS-URBADIEZ- ENTREPUENTES,Este-Alcosa-Torreblanca,4,8,0,7,5,0,1,11
+359,PRESIDENTE ADOLFO SUAREZ,,LOS REMEDIOS,Los Remedios,7,0,0,0,7,0,0,7
+360,PRESIDENTE ADOLFO SUAREZ,Arbolado Viario,LOS REMEDIOS,Los Remedios,6,2,1,1,6,0,0,8
+361,"Primo Nebiolo, Calle",Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,1,3,0,0,4,0,0,4
+362,PUEBLO PALESTINO JARDINES PLAZA,Plaza o Jardín,LOS PRINCIPES-LA FONTANILLA,Macarena,3,1,0,0,4,0,0,4
+363,PUEBLO SAHARAUI,Arbolado Viario,LAS HUERTAS,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+364,PUENTE PASARELA DE LA CARTUJA,,TRIANA OESTE,Triana,3,0,0,3,0,0,0,3
+365,Puerta de Jerez,,SANTA CRUZ,Casco Antiguo,0,1,0,0,0,1,0,1
+366,Puerta de Jerez,Arbolado Viario,SANTA CRUZ,Casco Antiguo,18,10,0,15,0,13,0,28
+367,Puerta de Jerez ( Medios Propios),Medianas y Glorietas,SANTA CRUZ,Casco Antiguo,0,8,0,0,0,8,0,8
+368,PZ ALTOZANO,Plaza o Jardín,TRIANA CASCO ANTIGUO,Triana,2,2,2,1,1,0,2,2
+369,PZ BEETHOVEN,Plaza o Jardín,CRUZ ROJA-CAPUCHINOS,Macarena,16,24,0,3,37,0,0,40
+370,PZ CONCORDIA,Plaza o Jardín,ENCARNACION-REGINA,Casco Antiguo,5,0,0,0,4,1,0,5
+371,PZ CUBA,,LOS REMEDIOS,Los Remedios,4,0,0,0,4,0,0,4
+372,PZ CUBA,Medianas y Glorietas,LOS REMEDIOS,Los Remedios,10,0,0,7,2,1,0,10
+373,PZ CUBA,Medianas y Glorietas,TRIANA CASCO ANTIGUO,Triana,8,0,0,0,8,0,0,8
+374,PZ DUQUESA CAYETANA DE ALBA,Medianas y Glorietas,DOCTOR BARRAQUER-GRUPO RENFE- POLICLINICO,Macarena,7,0,0,7,0,0,4,3
+375,PZ DUQUESA CAYETANA DE ALBA,Medianas y Glorietas,SAN LORENZO,Casco Antiguo,7,0,0,7,0,0,4,3
+376,PZ ESCULA DE CRISTO,,SANTA CRUZ,Casco Antiguo,1,0,0,0,1,0,0,1
+377,PZ GAVIDIA,Arbolado Viario,ENCARNACION-REGINA,Casco Antiguo,1,0,0,0,1,0,0,1
+378,PZ LA AUTONOMIA,Sin Recepcionar,PIO XII,Macarena,16,0,0,0,16,0,0,16
+379,PZ MANUEL GARRIDO,,LA BARZOLA,Macarena,2,0,0,0,2,0,0,2
+380,PZ MANUEL GARRIDO,Plaza o Jardín,LA BARZOLA,Macarena,2,3,0,0,5,0,0,5
+381,PZ PADRE JERONIMO DE CORDOBA,Arbolado Viario,SANTA CATALINA,Casco Antiguo,2,0,0,0,2,0,0,2
+382,PZ PILATOS,Plaza o Jardín,SAN BARTOLOME,Casco Antiguo,15,0,0,0,15,0,0,15
+383,PZ SALESIANO DON UBALDO,,TRIANA ESTE,Triana,65,1,0,0,60,6,1,65
+384,PZ SAN MARTIN DE PORRES,Plaza o Jardín,BARRIO LEON,Triana,1,0,0,1,0,0,0,1
+385,PZ SAN MARTIN DE PORRES,Plaza o Jardín,TRIANA ESTE,Triana,2,0,0,0,2,0,0,2
+386,RAFAEL LAFFON,Arbolado Viario,SAN CARLOS-TARTESSOS,San Pablo-Santa Justa,2,1,0,2,1,0,0,3
+387,"Rafael Montesiones, Jardines",Plaza o Jardín,ARENAL,Casco Antiguo,60,44,32,3,19,50,31,73
+388,RAFAEL SALGADO,Arbolado Viario,BAMI,Sur,24,0,0,4,20,0,0,24
+389,"Rastrillo, Calle",Parque Periurbano,PALACIO DE CONGRESOS- URBADIEZ- ENTREPUENTES,Este-Alcosa- Torreblanca,13,0,0,0,11,2,0,13
+390,Republica de China,Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,3,9,2,1,9,0,0,12
+391,RONDA TAMARGUILLO ISLETA ALCAMPO,Medianas y Glorietas,AVENIDA DE LA PAZ,Sur,4,1,0,4,1,0,0,5
+392,RONDA TAMARGUILLO ISLETA ALCAMPO,Medianas y Glorietas,EL PLANTINAR,Sur,3,0,0,2,1,0,0,3
+393,RONDEÑA (LA),Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,1,0,0,1,0,0,0,1
+394,ROTONDA 112,Jardinería Asociada a Viario,TORREBLANCA,Este-Alcosa-Torreblanca,0,1,0,1,0,0,0,1
+395,ROTONDA AVDA LAS CIENCIAS-FLORA TRISTAN,Medianas y Glorietas,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,26,6,1,16,14,1,4,28
+396,Rotonda de la Glorieta de los Marineros (Medios Propios),,EL PRADO-PARQUE MARIA LUISA,Sur,5,0,0,0,5,0,0,5
+397,ROTONDA MIGUEL ANGEL BLANCO,Medianas y Glorietas,POLIGONO SUR,Sur,2,6,0,0,8,0,0,8
+398,RUPERTO CHAPI GLORIETA,,AMATE,Cerro-Amate,0,1,0,0,1,0,0,1
+399,RUPERTO CHAPI GLORIETA,,CIUDAD JARDIN,Nervión,5,3,0,1,7,0,0,8
+400,RUPERTO CHAPI GLORIETA,,EL CERRO,Cerro-Amate,12,3,0,5,10,0,0,15
+401,"Salvador Valverde, Plaza",Plaza o Jardín,TORREBLANCA,Este-Alcosa-Torreblanca,5,0,0,0,5,0,0,5
+402,San Juan de Ribera,Medianas y Glorietas,LEON XIII-LOS NARANJOS,Macarena,4,0,0,1,3,0,0,4
+403,SANTA FE,Medianas y Glorietas,LOS REMEDIOS,Los Remedios,2,0,0,0,2,0,0,2
+404,"SANTA ISABEL, JARDINES PLAZA",Plaza o Jardín,SAN JULIAN,Casco Antiguo,3,2,0,0,5,0,0,5
+405,Santa Marta,Arbolado Viario,SANTA CRUZ,Casco Antiguo,6,0,0,6,0,0,0,6
+406,"SECTOR 11 (Fernanda Calado Rosales), PLAZA ARBOLADA",Plaza o Jardín,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,37,0,0,0,37,0,0,37
+407,"SECTOR 14, PARQUE",Sin Recepcionar,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,36,0,0,0,36,0,0,36
+408,"SECTOR 15, PLAZA AJARDINADA",Plaza o Jardín,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,20,0,0,0,20,0,0,20
+409,SERRUCHO,,AEROPUERTO VIEJO,Norte,1,1,0,1,1,0,0,2
+410,"SOLEA (LA), AVDA",Arbolado Viario,SAN PABLO A Y B,San Pablo-Santa Justa,0,4,0,0,3,1,0,4
+411,SOLEARILLA (LA),Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,3,0,0,0,3,0,0,3
+412,SUEÑO DEL PATRICIO,Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,12,0,0,0,12,0,0,12
+413,SUR PINO MONTANO. PARQUE,Parque Urbano,BARRIADA PINO MONTANO,Norte,123,15,0,117,21,0,0,138
+414,"Taiwan, Calle",Medianas y Glorietas,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,2,25,0,4,23,0,4,23
+415,TARSO,,SAN PABLO A Y B,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+416,TARSO,Medianas y Glorietas,SAN PABLO A Y B,San Pablo-Santa Justa,4,6,0,2,8,0,0,10
+417,TARSO,Medianas y Glorietas,SANTA CLARA,San Pablo-Santa Justa,2,0,0,0,0,2,0,2
+418,TERMODINACA,,LA BACHILLERA,Norte,0,2,1,0,1,0,0,2
+419,TESALONICA,Medianas y Glorietas,SAN PABLO D Y E,San Pablo-Santa Justa,2,0,0,0,2,0,0,2
+420,TIENTOS (LOS),Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+421,"Tigris, Calle",Arbolado Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,1,28,0,0,29,0,0,29
+422,"TORCUATO LUCA DE TENA,CL",Arbolado Viario,POLIGONO SUR,Sur,0,169,169,0,0,0,169,0
+423,"TORRE  PERDIGONES,PARQUE",Parque Urbano,DOCTOR BARRAQUER-GRUPO RENFE- POLICLINICO,Macarena,39,0,0,8,31,0,0,39
+424,TRASERA AYORA-CULLERA,Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,1,1,0,1,1,0,0,2
+425,TRASERA CIUDAD DE CULLERA - CIUDAD DE CARLET,Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,0,2,0,0,2,0,0,2
+426,TRASERA CIUDAD DE ONTENIENTE,Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,0,1,0,0,1,0,0,1
+427,TRASERA CIUDAD DE SUECA,Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,1,0,0,0,1,0,0,1
+428,TRASERA ONTENIENTE-CARCAGENTE,Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,5,0,0,0,5,0,0,5
+429,TRASERA SUECA-GANDIA,Plaza o Jardín,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,7,2,0,5,4,0,1,8
+430,TROVADOR,,HUERTA DEL PILAR,Nervión,1,0,0,0,1,0,0,1
+431,"Turia, Avenida",Arbolado Viario,PARQUE ALCOSA-JARDINES DEL EDEN,Este-Alcosa-Torreblanca,1,0,0,0,1,0,0,1
+432,U.G. Glorieta Buenos Aires,Medianas y Glorietas,EL PRADO-PARQUE MARIA LUISA,Sur,2,0,0,0,2,0,0,2
+433,UG Avenida María Luisa,Arbolado Viario,SANTA CRUZ,Casco Antiguo,32,0,0,0,32,0,0,32
+434,UG Paseo Juan Carlos I Talud (Lote 3),Plaza o Jardín,SAN VICENTE,Casco Antiguo,2,54,0,0,3,53,31,25
+435,"Ulises, Calle",Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,4,4,0,2,5,1,1,7
+436,"URBANIZACIóN  POLÍGONO AEROPUERTO, PARQUE",Parque Urbano,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,5,0,0,0,5,0,0,5
+437,"URBANIZACIóN P-7 (PINO MONTANO), PARQUE",Parque Urbano,BARRIADA PINO MONTANO,Norte,80,11,0,23,53,15,0,91
+438,Urbano Orad,Arbolado Viario,COLORES-ENTREPARQUES,Este-Alcosa-Torreblanca,4,8,0,3,9,0,0,12
+439,VERDIALES (LAS),Plaza o Jardín,SAN PABLO A Y B,San Pablo-Santa Justa,1,2,2,0,1,0,0,3
+440,VIA APIA,Arbolado Viario,PALMETE,Cerro-Amate,4,0,0,4,0,0,4,0
+441,VIA APIA,Arbolado Viario,TORREBLANCA,Este-Alcosa-Torreblanca,1,0,0,1,0,0,1,0
+442,VICENTE ALEIXANDRE,Plaza o Jardín,EL PORVENIR,Sur,10,0,0,0,10,0,0,10
+443,VILLAS DE CUBA (LAS),Arbolado Viario,SANTA CLARA,San Pablo-Santa Justa,1,0,0,0,1,0,0,1
+444,VIRGEN DE LA ANTIGUA,,LOS REMEDIOS,Los Remedios,5,0,0,0,5,0,0,5
+445,VIRGEN DE LA HUMILDAD,,SAN PABLO A Y B,San Pablo-Santa Justa,0,2,0,0,2,0,0,2
+446,VIRGEN DE LA OLIVA,Medianas y Glorietas,LOS REMEDIOS,Los Remedios,0,3,0,0,3,0,0,3
+447,Virgen de los Reyes,,SANTA CRUZ,Casco Antiguo,1,0,0,1,0,0,0,1
+448,Virgen de los Reyes,Arbolado Viario,SANTA CRUZ,Casco Antiguo,26,0,0,26,0,0,0,26
+449,VIRGEN DE ROBLEDO,Jardinería Asociada a Viario,LOS REMEDIOS,Los Remedios,3,0,0,0,3,0,0,3
+450,"VIRGEN DEL PILAR, JARDÍN PLAZA.",Plaza o Jardín,LA BARZOLA,Macarena,20,0,0,20,0,0,0,20
+451,"VIRGEN SANTA MARÍA DEL MAR, JARDINES",Parque Urbano,CISNEO ALTO-SANTA MARIA DE GRACIA,Macarena,10,11,0,3,18,0,0,21
+452,Z.V. Alcalde Isacio Contreras,Plaza o Jardín,LA FLORIDA,Nervión,45,1,1,11,21,13,1,45
+453,Z.V. Av. de la Buhaira,Medianas y Glorietas,HUERTA DEL PILAR,Nervión,1,0,0,0,1,0,0,1
+454,Z.V. Av. Portugal- Rda. Capitanía,Jardinería Asociada a Viario,EL PRADO-PARQUE MARIA LUISA,Sur,8,1,1,5,3,0,6,3
+455,Z.V. Avenida de Grecia,Jardinería Asociada a Viario,EL CANO-BERMEJALES,Bellavista-La Palmera,6,7,0,8,5,0,0,13
+456,Z.V. Avenidas Eritaña y Moliní,,EL PRADO-PARQUE MARIA LUISA,Sur,3,0,0,0,3,0,0,3
+457,Z.V. Avenidas Eritaña y Moliní,,SECTOR SUR-LA PALMERA-REINA MERCEDES,Bellavista-La Palmera,1,0,0,0,1,0,0,1
+458,Z.V. Bermejales Sur,Parque Periurbano,BELLAVISTA,Bellavista-La Palmera,96,0,0,0,96,0,0,96
+459,Z.V. Bermejales Sur,Parque Periurbano,EL CANO-BERMEJALES,Bellavista-La Palmera,93,0,0,0,93,0,0,93
+460,Z.V. Calle Amor,Medianas y Glorietas,SANTA AURELIA-CANTABRICO-ATLANTICO- LA ROMERIA,Cerro-Amate,4,1,0,3,2,0,0,5
+461,Z.V. Calle Amsterdam,Plaza o Jardín,EL CANO-BERMEJALES,Bellavista-La Palmera,2,0,0,0,2,0,0,2
+462,Z.V. Canal Ranilla Torbizcon,Plaza o Jardín,PALMETE,Cerro-Amate,0,3,0,0,3,0,0,3
+463,Z.V. Dolores Ibarruri,Plaza o Jardín,AVENIDA DE LA PAZ,Sur,1,0,0,0,1,0,0,1
+464,Z.V. Dr. Pedro de Castro,,HUERTA DE LA SALUD,Sur,1,0,0,0,0,1,0,1
+465,Z.V. Dr. Pedro de Castro,Jardinería Asociada a Viario,HUERTA DE LA SALUD,Sur,5,0,0,1,4,0,0,5
+466,Z.V. Eduardo Dato-Campo Sevilla,Jardinería Asociada a Viario,LA BUHAIRA,Nervión,10,0,0,3,7,0,1,9
+467,Z.V. General Palanca y Nucleo residencial Ruiz de Toledo,Plaza o Jardín,GIRALDA SUR,Sur,15,8,6,0,15,2,6,17
+468,Z.V. Glorieta Menacho López y próxima,Medianas y Glorietas,PALMETE,Cerro-Amate,3,11,0,3,11,0,0,14
+469,Z.V. Huerta San Gonzalo,Plaza o Jardín,EL CANO-BERMEJALES,Bellavista-La Palmera,23,0,0,3,20,0,0,23
+470,Z.V. Jardín de Andalucía,Parque Urbano,BELLAVISTA,Bellavista-La Palmera,33,4,1,25,11,0,2,35
+471,Z.V. Jardín de la Alhambra,Parque Urbano,BELLAVISTA,Bellavista-La Palmera,85,7,0,7,85,0,0,92
+472,Z.V. Jardín de la Calle Navas,Plaza o Jardín,PALMETE,Cerro-Amate,9,7,5,2,9,0,5,11
+473,Z.V. Jardín de la Primavera,Parque Urbano,BELLAVISTA,Bellavista-La Palmera,16,16,15,13,4,0,15,17
+474,Z.V. Jardín de la Solidaridad,Plaza o Jardín,BELLAVISTA,Bellavista-La Palmera,6,1,0,6,1,0,0,7
+475,Z.V. Jardín Rafael García Miguel,Plaza o Jardín,LA PLATA,Cerro-Amate,23,13,9,8,19,0,9,27
+476,Z.V. Jardines Calle Huestes,Plaza o Jardín,LA BUHAIRA,Nervión,13,0,0,13,0,0,0,13
+477,Z.V. Jardines Calle Monzón,Parque Urbano,SECTOR SUR-LA PALMERA-REINA MERCEDES,Bellavista-La Palmera,21,0,0,15,6,0,0,21
+478,Z.V. Jardines de Don Otilio,Parque Urbano,LOS REMEDIOS,Los Remedios,9,4,0,5,8,0,5,8
+479,Z.V. Jardines de Hércules,,BELLAVISTA,Bellavista-La Palmera,137,230,0,87,255,25,4,363
+480,Z.V. Jardines de Hércules,Parque Urbano,BELLAVISTA,Bellavista-La Palmera,16,62,0,16,62,0,0,78
+481,Z.V. Jardines de la calle Algaba,Parque Urbano,LA PLATA,Cerro-Amate,3,0,0,0,3,0,0,3
+482,Z.V. Jardines de la Calle Imprenta,Plaza o Jardín,PALMETE,Cerro-Amate,71,56,0,9,113,5,4,123
+483,Z.V. Jardines de la Calzada,Parque Urbano,LA CALZADA,Nervión,54,24,7,40,31,0,5,73
+484,Z.V. Jardines de la Plaza de la Carlota,Plaza o Jardín,PALMETE,Cerro-Amate,0,7,7,0,0,0,7,0
+485,Z.V. Jardines de Manuel Ferrand,Parque Urbano,LOS REMEDIOS,Los Remedios,16,3,0,10,9,0,0,19
+486,Z.V. JARDINES DE SAN BERNARDO,Parque Urbano,SAN BERNARDO,Nervión,20,16,4,1,16,15,2,34
+487,Z.V. Jardines Del Mediterráneo,Plaza o Jardín,PALMETE,Cerro-Amate,2,12,1,7,4,2,2,12
+488,Z.V. Jardines del Paseo de Europa,Parque Urbano,EL CANO-BERMEJALES,Bellavista-La Palmera,94,8,8,33,60,1,8,94
+489,Z.V. Jardines del Prado de San Sebastián,Parque Urbano,EL PRADO-PARQUE MARIA LUISA,Sur,113,24,20,51,65,1,7,130
+490,Z.V. Jardines Felipe II,Parque Urbano,FELIPE II-LOS DIEZ MANDAMIENTOS,Sur,108,1,0,0,109,0,0,109
+491,z.v. Jardines Manuel Arellano,Parque Urbano,LOS REMEDIOS,Los Remedios,41,16,3,15,39,0,3,54
+492,Z.V. Jardines Manuel Benítez Carrasco,Parque Urbano,POLIGONO SUR,Sur,132,25,9,77,71,0,16,141
+493,Z.V. Jardines Plaza Poeta Miguel Hernández (C/Estoril),,ROCHELAMBERT,Cerro-Amate,2,0,0,0,2,0,0,2
+494,Z.V. Jardines Plaza Poeta Miguel Hernández (C/Estoril),Plaza o Jardín,ROCHELAMBERT,Cerro-Amate,18,7,0,3,22,0,0,25
+495,Z.V. Juan Carvallo,Jardinería Asociada a Viario,ROCHELAMBERT,Cerro-Amate,33,34,14,2,38,13,25,42
+496,Z.V. LAS MELIAS,Plaza o Jardín,PALMETE,Cerro-Amate,41,3,0,41,3,0,0,44
+497,Z.V. LOS NARANJITOS,Plaza o Jardín,BELLAVISTA,Bellavista-La Palmera,0,3,0,0,3,0,0,3
+498,Z.V. Luis Rosales,Jardinería Asociada a Viario,TABLADILLA-LA ESTRELLA,Sur,3,0,0,3,0,0,0,3
+499,Z.V. Parque Cavestany,Parque Urbano,LA CALZADA,Nervión,1,3,2,2,0,0,0,4
+500,Z.V. Parque Celestino Mutis,Parque Urbano,POLIGONO SUR,Sur,107,13,11,17,89,3,18,102
+501,Z.V. Parque Ciudad Jardín,Parque Urbano,CIUDAD JARDIN,Nervión,6,0,0,1,5,0,0,6
+502,Z.V. Parque de la Buhaira,Parque o Jardín Histórico,LA BUHAIRA,Nervión,118,54,24,86,61,1,24,148
+503,Z.V. Parque de la Música,Parque Urbano,LA PLATA,Cerro-Amate,75,16,13,22,23,33,16,75
+504,Z.V. Parque de la Negrilla (Forja XXI),Parque Urbano,PALMETE,Cerro-Amate,0,1,0,1,0,0,1,0
+505,Z.V. Parque Federico García Lorca,Parque Urbano,NERVION,Nervión,25,1,0,0,23,3,1,25
+506,Z.V. Parque Hacienda de San Antonio,Parque Urbano,PALMETE,Cerro-Amate,0,52,0,2,50,0,2,50
+507,Z.V. Parque Jardines de San Diego,Plaza o Jardín,SAN DIEGO,Norte,19,3,0,14,8,0,0,22
+508,Z.V. Parque Pirineos Santo Domingo,Parque Urbano,HUERTA DEL PILAR,Nervión,10,10,10,0,10,0,10,10
+509,Z.V. Parque Ranilla (Antigua cárcel),Parque Urbano,NERVION,Nervión,75,24,0,71,28,0,2,97
+510,Z.V. Parque Rectora Rosario Valpuesta,Parque Urbano,GIRALDA SUR,Sur,36,0,0,7,29,0,0,36
+511,Z.V. Parterres Calle Las Leandras,Jardinería Asociada a Viario,JUAN XXIII,Cerro-Amate,2,6,0,1,7,0,0,8
+512,Z.V. Parterres Calles General Ollero y Tamar,Jardinería Asociada a Viario,SANTA AURELIA-CANTABRICO-ATLANTICO- LA ROMERIA,Cerro-Amate,2,2,0,0,4,0,0,4
+513,Z.V. Parterres Gran Plaza,,NERVION,Nervión,8,0,0,3,3,2,0,8
+514,Z.V. Parterres Gran Plaza,Plaza o Jardín,NERVION,Nervión,9,13,0,0,20,2,0,22
+515,Z.V. Plaza Aljarafe,Plaza o Jardín,EL PLANTINAR,Sur,2,8,4,0,6,0,4,6
+516,Z.V. Plaza Cristo de La Misión,Plaza o Jardín,SECTOR SUR-LA PALMERA-REINA MERCEDES,Bellavista-La Palmera,14,0,0,0,14,0,0,14
+517,Z.V. Plaza Juan XXIII,Plaza o Jardín,JUAN XXIII,Cerro-Amate,14,0,0,0,14,0,0,14
+518,Z.V. Puerto de la Mora,Plaza o Jardín,ROCHELAMBERT,Cerro-Amate,34,4,1,17,20,0,1,37
+519,Z.V. Puerto del Escudo,Jardinería Asociada a Viario,ROCHELAMBERT,Cerro-Amate,0,1,1,0,0,0,1,0
+520,Z.V. Ramón y Cajal,Jardinería Asociada a Viario,EL JUNCAL-HISPALIS,Sur,29,8,0,14,23,0,0,37
+521,Z.V. Rotonda Avenida Finlandia,Medianas y Glorietas,EL CANO-BERMEJALES,Bellavista-La Palmera,1,0,0,0,1,0,0,1
+522,Z.V. Rotonda final Palmete,Medianas y Glorietas,,,5,0,0,1,0,4,0,5
+523,Z.V. Rotondas Palmete,Medianas y Glorietas,PALMETE,Cerro-Amate,4,3,0,0,7,0,0,7
+524,Z.V. Venta de Antequera,Parque Urbano,BELLAVISTA,Bellavista-La Palmera,14,4,0,18,0,0,0,18
