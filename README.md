@@ -7,6 +7,9 @@ Las tablas con la lista de especies y sus caracteristias esta en data/Especies.c
 Las tablas con la lista de parques y sus caracteristias esta en data/Parques.csv     
 Los metadatos en: https://ibartomeus.github.io/PolinizadoresSevilla/        
 
+Los datos desglosados por parque y planta estan en RawData/plantasxparque_completo.csv
+
+
 ## Una ciudad que proteja a los polinizadores. 
 
 Los insectos polinizadores, como las abejas, los sírfidos o las mariposas, 
